@@ -1,4 +1,4 @@
-            - name: generate-snake-game-from-github-contribution-grid-extended
+- name: generate-snake-game-from-github-contribution-grid-extended
   # You may pin to the exact commit or the version.
   # uses: ArthurLobopro/snk@f098e44992bbab479bdf4eeed5f81473b319d957
   uses: ArthurLobopro/snk@v0
