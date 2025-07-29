@@ -1,4 +1,4 @@
-            - name: Snakemake
+            name: Snakemake
   # You may pin to the exact commit or the version.
   # uses: Sutil/snk@6a523414b8099799732942e4c95aacbc57a51cae
   uses: Sutil/snk@v01.00.02
