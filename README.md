@@ -13,7 +13,6 @@
 🛠️ And Also: Neural Networks | NLP | ML 
 
 
-
 ## My Recent badges
 
 [![ChatGPT Cybersecurity](chatgpt-cybersecurity.png)](https://www.credly.com/badges/69edba7b-52ce-4d48-aaaf-61eff9669749/public_url)
@@ -23,6 +22,9 @@
 
 [![fernnbr](https://github-readme-stats.vercel.app/api/top-langs/?username=fernnbr&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contact me at 
+
+[![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahfernn/)
 
 
 
