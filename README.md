@@ -1,7 +1,4 @@
-## Hi there, I'm Sarah F. Fernn 👋
-
-**Follow Me**
-[![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr)
+## Hi there, I'm Sarah F. Fernn | [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) 
 
 - 🔭 Currently working on: Software Architecture and CivicTech/SocialTech
 - 🌱 Learning: C, Python and Akoma Ntoso, ML 
