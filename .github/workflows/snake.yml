@@ -1,14 +1,36 @@
-            name: Snakemake
+            - name: generate-snake-game-from-github-contribution-grid-extended
   # You may pin to the exact commit or the version.
-  # uses: Sutil/snk@6a523414b8099799732942e4c95aacbc57a51cae
-  uses: Sutil/snk@v01.00.02
+  # uses: ArthurLobopro/snk@f098e44992bbab479bdf4eeed5f81473b319d957
+  uses: ArthurLobopro/snk@v0
   with:
     # github user name
     github_user_name: fernnbr
-    # path of the generated gif file. If left empty, the gif file will not be generated.
-    gif_out_path: # optional
-    # path of the generated svg file. If left empty, the svg file will not be generated.
-    svg_out_path: # optional
-    # Hash color to draw the snake
-    snake_color: # optional
+    # github token used to fetch the contribution calendar. Default to the action token if empty.
+    github_token: # optional, default is ${{ github.token }}
+    # list of files to generate.
+one file per line. Each output can be customized with options as query string.
+
+ supported query string options:
+
+- palette:      A preset of color, one of [github, github-dark, github-light]
+- color_snake:  Color of the snake
+- color_dots:   Coma separated list of dots color. 
+                The first one is 0 contribution, then it goes from the low contribution to the highest.
+                Exactly 5 colors are expected.
+- hide_stack: If should hide progressbar, by default is false
+- dot_shape: The shape of the contribution dots, 
+             must be one of [square, square-rounded, circle]. 
+             By default is square-rounded.
+- speed: The speed of animation, must be one of [fast, normal, slow].
+         By default is normal
+- snake_size: The size of the snake, must be a number between 1 and 6.
+              By default is 4.
+
+example:
+  outputs: |
+    dark.svg?palette=github-dark&color_snake=blue&hide_stack=true
+    light.svg?color_snake=#7845ab
+    ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    outputs: # optional
           
