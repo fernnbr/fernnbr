@@ -12,6 +12,10 @@
 My recent badges:
 
 [![ChatGPT Cybersecurity](chatgpt-cybersecurity.png)](https://www.credly.com/badges/69edba7b-52ce-4d48-aaaf-61eff9669749/public_url)
+[![ChatGPT A.I. in Project Management](ai-in-product-management.png)](https://www.credly.com/badges/3efaddd2-9913-4ef1-a1f5-2e5d52777316/public_url)
+
+
+
 
 
 
