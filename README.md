@@ -11,7 +11,7 @@
 
 My recent badges:
 
-[![ChatGPT Cybersecurity](sf-ai-in-product-management.png)](https://www.credly.com/badges/69edba7b-52ce-4d48-aaaf-61eff9669749/public_url)
+[![ChatGPT Cybersecurity](chatgpt-cybersecurity.png)](https://www.credly.com/badges/69edba7b-52ce-4d48-aaaf-61eff9669749/public_url)
 
 
 
