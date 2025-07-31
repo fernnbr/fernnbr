@@ -13,7 +13,8 @@
 🛠️ And Also: Neural Networks | NLP | ML 
 
 
-## My Recent badges
+
+## Highlighted Badges & Certifications
 
 [![From Programmer to Software Archtecture](programmer-to-soft-arch.png)](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)
 [![Ai Agents: Basic to Advanced](ai-agents-basics-to-advanced.png)](https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url)
