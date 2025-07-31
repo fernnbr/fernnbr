@@ -15,6 +15,7 @@
 
 
 
+
 ## Highlighted Badges & Certifications
 
 [![From Programmer to Software Archtecture](programmer-to-soft-arch.png)](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)
