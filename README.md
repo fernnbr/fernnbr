@@ -9,7 +9,7 @@
 
 📚 ...Also I'm studying Software Engineering @ École 42, in addition to my Public and Private management background
 
-
+<br></br>
 
 > My focuses
 
