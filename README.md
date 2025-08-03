@@ -11,12 +11,14 @@
 
 <br></br>
 
+
 > My focuses
 
 🔍 Currently I'm exploring #DevOps | A.I. for Good | #SoftwareArchitecture and applying this knowledge in socialtech and civictech initiatives
 
 😄 ... Thus I'm engaged in: #CivicTech | #SocialTech | #DeepTech areas, because I believe technology should empower people, foster inclusion, and be a force for systemic change especially for those historically left on the margins
 
+<br></br>
 
 
 > My Learnings
@@ -25,13 +27,14 @@
 
 🤖 Also learning fields/techniques as #NeuralNetworks | #NLP | #ML, because understanding how machines process language and patterns enables me to design intelligent systems that amplify human potential and create more adaptive technologies for diverse minds, driving #AIforgood 
 
+<br></br>
 
 > My mission is to... 
 
 ...Engineer a future where #tech not only include the unheard, but also amplifies their voices, talents and impact
 
 
-
+---
 ## Highlighted Badges & Certifications
 
 [![From Programmer to Software Archtecture](programmer-to-soft-arch.png)](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)
@@ -40,10 +43,14 @@
 [![ChatGPT Cybersecurity](chatgpt-cybersecurity.png)](https://www.credly.com/badges/69edba7b-52ce-4d48-aaaf-61eff9669749/public_url)
 [![ChatGPT A.I. in Project Management](ai-in-product-management.png)](https://www.credly.com/badges/3efaddd2-9913-4ef1-a1f5-2e5d52777316/public_url)
 
+---
+<br></br>
 ## Languages
 
 [![fernnbr](https://github-readme-stats.vercel.app/api/top-langs/?username=fernnbr&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+<br></br>
 ## Contact me 
 
 [![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahfernn/)
