@@ -1,6 +1,6 @@
 ## Hi there, I'm Sarah F. Fernn, and... | (she || her) | ( [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) / ![](https://komarev.com/ghpvc/?username=fernnbr&color=006bed) )
 
-
+<br></br>
 > More About Me 
 
 🔹 ...My nick is Shuri (yeah, like in #BlackPanther) 
