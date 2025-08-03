@@ -8,7 +8,7 @@
 
 🔍 Currently I'm exploring DevOps | A.I. for Good | Software Archtecture and working in Deeptech and CivicTech projects  
 
-😄 ... And engaged in: CivicTech | SocialTech | EdTech Solutions, because I believe technology should empower people, foster inclusion, and be a force for systemic change especially for those historically left on the margins 
+😄 ... And engaged in: CivicTech | SocialTech | DeepTech, because I believe technology should empower people, foster inclusion, and be a force for systemic change especially for those historically left on the margins 
 
 🛠️ Continuosly Learning: C | Python | Akoma Ntoso | LexML | LEOS, that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open, interoperable systems that serve real social impact
 
