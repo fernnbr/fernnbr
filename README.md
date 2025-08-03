@@ -10,7 +10,7 @@
 
 😄 ... And engaged in: CivicTech | SocialTech | DeepTech, because I believe technology should empower people, foster inclusion, and be a force for systemic change especially for those historically left on the margins 
 
-🛠️ Continuosly Learning: C | Python | Akoma Ntoso | LexML | LEOS, that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open, interoperable systems that serve real social impact
+🛠️ Continuously Learning: C | Python | Akoma Ntoso | LexML | LEOS, that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open, interoperable systems that serve real social impact
 
 🛠️ And Also: Neural Networks | NLP | ML, because understanding how machines process language and patterns enables me to design intelligent systems that amplify human potential and create more adaptive technologies for diverse minds
 
