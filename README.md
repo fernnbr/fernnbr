@@ -6,7 +6,7 @@
 
 📚 Also I'm studying Software Engineering @ École 42, in addition to my Public and Private management background
 
-🔍 Currently I'm exploring DevOps | A.I. for Good | Software Archtecture and working in Deeptech and CivicTech projects  
+🔍 Currently I'm exploring DevOps | A.I. for Good | Software Architecture and working in Deeptech and CivicTech projects  
 
 😄 ... And engaged in: CivicTech | SocialTech | DeepTech, because I believe technology should empower people, foster inclusion, and be a force for systemic change especially for those historically left on the margins 
 
