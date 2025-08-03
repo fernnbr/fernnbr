@@ -4,7 +4,7 @@
 
 💼 I'm the founder & CEO @ Stardust Zone, working for neurodivergent inclusion and prosperity amongst societies
 
-📚 Also I'm studying Software Engineering @ École 42, in adition to my Public and Private management background
+📚 Also I'm studying Software Engineering @ École 42, in addition to my Public and Private management background
 
 🔍 Currently I'm exploring DevOps | A.I. for Good | Software Archtecture and working in Deeptech and CivicTech projects  
 
