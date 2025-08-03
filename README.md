@@ -1,18 +1,18 @@
-## Hi there, I'm Sarah F. Fernn | (she || her) | ( [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) / ![](https://komarev.com/ghpvc/?username=fernnbr&color=006bed) )
+## Hi there, I'm Sarah F. Fernn, and... | (she || her) | ( [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) / ![](https://komarev.com/ghpvc/?username=fernnbr&color=006bed) )
 
-🔹 Founder and CEO @ Stardust Zone - Neurodiversity & Innovation
+🔹 ...My nick is Shuri 
 
-📚 Studying Software Engineering @ École 42
+💼 I'm the founder & CEO @ Stardust Zone, working for neurodivergent inclusion and prosperity amongst societies
 
-🔍 Exploring DevOps | A.I. for Good | Software Archtecture 
+📚 Also I'm studying Software Engineering @ École 42, in adition to my Public and Private management background
 
-😄 Engaged in: CivicTech | SocialTech | EdTech Solutions 
+🔍 Currently I'm exploring DevOps | A.I. for Good | Software Archtecture and working in Deeptech and CivicTech projects  
 
-🛠️ Continuosly Learning: C | Python | Akoma Ntoso | LexML | LEOS
+😄 ... And engaged in: CivicTech | SocialTech | EdTech Solutions, because I believe technology should empower people, foster inclusion, and be a force for systemic change especially for those historically left on the margins 
 
-🛠️ And Also: Neural Networks | NLP | ML 
+🛠️ Continuosly Learning: C | Python | Akoma Ntoso | LexML | LEOS, that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open, interoperable systems that serve real social impact
 
-
+🛠️ And Also: Neural Networks | NLP | ML, because understanding how machines process language and patterns enables me to design intelligent systems that amplify human potential and create more adaptive technologies for diverse minds
 
 
 
