@@ -14,6 +14,8 @@
 
 🛠️ And Also: Neural Networks | NLP | ML, because understanding how machines process language and patterns enables me to design intelligent systems that amplify human potential and create more adaptive technologies for diverse minds
 
+> My mission is to engineer a future where #tech doesn't just include the unheard, it amplifies their voices and talents 
+
 
 
 ## Highlighted Badges & Certifications
