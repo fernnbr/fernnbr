@@ -19,7 +19,6 @@
 
 <br></br>
 
-
 > My Learnings
 
 🛠️ By the way, I'm continuously Learning: #C | #Python | #AkomaNtoso | #LexML | #LEOS, that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open, interoperable systems that serve real social impact
@@ -27,7 +26,6 @@
 🤖 Also learning fields/techniques as #NeuralNetworks | #NLP | #ML, because understanding how machines process language and patterns enables me to design intelligent systems that amplify human potential and create more adaptive technologies for diverse minds, driving #AIforgood 
 
 <br></br>
-
 > My mission is to... 
 
 ...Engineer a future where #tech not only include the unheard, but also amplifies their voices, talents and impact
