@@ -11,7 +11,6 @@
 
 <br></br>
 
-
 > My focuses
 
 🔍 Currently I'm exploring #DevOps | A.I. for Good | #SoftwareArchitecture and applying this knowledge in socialtech and civictech initiatives
