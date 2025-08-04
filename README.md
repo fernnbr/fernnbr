@@ -75,9 +75,14 @@
 
 
 <br></br>
-## Contact me 
+## Contact me at [![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahfernn/) 
 
-[![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahfernn/)
+
+<div align="center">
+
+<img src="https://github.com/fernnbr/fernnbr/blob/main/farming_aura.gif" width="50%" />
+
+</div>
 
 
 
