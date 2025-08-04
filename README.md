@@ -1,6 +1,14 @@
 ## Hi there, I'm Sarah F. Fernn, and... | (she || her) | ( [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) / ![](https://komarev.com/ghpvc/?username=fernnbr&color=006bed) )
-<br></br>
-> More About Me 
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernnbr&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernnbr&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernnbr&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
+
+## More About Me 
 
 🔹 ...My nick is Shuri (yeah, like in #BlackPanther) 
 
