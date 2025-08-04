@@ -75,7 +75,12 @@
 
 
 <br></br>
-## Contact me at [![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahfernn/) 
+
+<div align="center">
+
+## Contact me at [![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahfernn/)
+
+</div>
 
 
 <div align="center">
