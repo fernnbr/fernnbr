@@ -19,6 +19,7 @@
 
 
 <!-- My Bio --> 
+<br></br>
 ## More About Me 
 
 🔹 ...My nick is Shuri (yeah, like in #BlackPanther) 
