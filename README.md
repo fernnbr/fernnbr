@@ -1,5 +1,4 @@
 ## Hi there, I'm Sarah F. Fernn, and... | (she || her) | ( [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) / ![](https://komarev.com/ghpvc/?username=fernnbr&color=006bed) )
-
 <br></br>
 > More About Me 
 
@@ -10,7 +9,6 @@
 📚 ...Also I'm studying Software Engineering @ École 42, in addition to my Public and Private management background
 
 <br></br>
-
 > My focuses
 
 🔍 Currently I'm exploring #DevOps | A.I. for Good | #SoftwareArchitecture and applying this knowledge in socialtech and civictech initiatives
@@ -18,7 +16,6 @@
 😄 ... Thus I'm engaged in: #CivicTech | #SocialTech | #DeepTech areas, because I believe technology should empower people, foster inclusion, and be a force for systemic change especially for those historically left on the margins
 
 <br></br>
-
 > My Learnings
 
 🛠️ By the way, I'm continuously Learning: #C | #Python | #AkomaNtoso | #LexML | #LEOS, that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open, interoperable systems that serve real social impact
