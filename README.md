@@ -68,6 +68,13 @@
 [![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahfernn/)
 
 
+<!-- Snake --> 
+<div align="center">
+    
+  ![snake gif](https://github.com/fernnbr/fernnbr/blob/output/github-snake-dark.svg)
+</div>
+
+
 
 
 
