@@ -1,10 +1,13 @@
-## Hi there, I'm Sarah F. Fernn and my Nickname is Shuri | (she || her) | ( [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) / ![](https://komarev.com/ghpvc/?username=fernnbr&color=006bed) )
+## Hi there, I'm Sarah F. Fernn | (she || her) 
 
 <br></br>
 <!-- My Stats -->
 
 ## My Stats 
 <div align="center">
+
+  ( Follow me here [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) and welcome! You are the ![](https://komarev.com/ghpvc/?username=fernnbr&color=50C878) person here)
+   <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernnbr&theme=tokyonight&hide_border=true" width="60%" />
    <br></br>
   <img src="https://github-readme-stats.vercel.app/api?username=fernnbr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="60%" /> </br>
