@@ -60,7 +60,7 @@
 <br></br>
 ## Highlighted Badges & Certifications
 
-
+[![Machine Learning Basics](machine-learning-basics.2.png)](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url)
 [![Probability / Statistics - The Foundations of Machine Learning](prob-stats-for-ml.1.png)](https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url)
 [![Deep Learning Concepts](deep-learning-concepts.png)](https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url)
 [![From Programmer to Software Archtecture](programmer-to-soft-arch.png)](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)
