@@ -109,6 +109,7 @@ and create more adaptive technologies for diverse minds, driving AI for Good
 <br></br>
 # Highlighted Badges & Certifications
 
+[![Architectural Thinking](architectural-thinking.png)](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)
 [![Eletronics Cookbook](electronics-cookbook.png)](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)
 [![Machine Learning Basics](machine-learning-basics.2.png)](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url)
 [![Probability / Statistics - The Foundations of Machine Learning](prob-stats-for-ml.1.png)](https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url)
