@@ -23,7 +23,7 @@ _working for neurodivergent inclusion and prosperity amongst societies_
 
 ### --- 💻 ---
 ### Also I'm studying `Software Engineering @ École 42`, 
-_in addition to my Public and Private management background_
+_in addition to my IR, Public and Private management background_
 
 ### --- 🏛️ ---
 ### Oh, and I learned other stuff in tech through 
