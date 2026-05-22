@@ -2,24 +2,29 @@
 
 
 # Sarah F. Fernn · `Shuri` · she/her
-*Mechatronic Engineering, International Relations & Public Management* </br>
-✦_Founder; Curious; Navigator of minds & systems_✦
-
-###### Engaged on `SpaceTech`, `CivicTech`, `DeepTech` and `NeuroTech` areas </br>
-
+### *`Mechatronic Engineering`, `International Relations` && `Public Management`* </br>
+_Founder; Curious; Navigator of minds & systems_
+</br>
 
 ✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·</br>
+###### Engaged on `SpaceTech`, `CivicTech`, `DeepTech` and `NeuroTech` areas </br>
+
 </br>
-*My mission is to engineer a future where tech not only include the unheard,</br>
-but also amplifies their voices, talents and impact.*</br>
+
+My mission is to engineer a future where tech not only include the unheard,</br>
+but also amplifies their voices, talents and impact. 
+
 </br>
-✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   · </br>
+
+✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦    
+</br>
 
 <img src="shuri by tech.webp" width="100%" />
 
 ---
 <!-- Welcome Section --> 
-## Welcome! 
+
+## Welcome, crew!  
 
  _Follow me here [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) and welcome!_ 
 
@@ -41,15 +46,25 @@ but also amplifies their voices, talents and impact.*</br>
 <!-- Descriptive Section --> 
 ## ✦ Orbit Map - Who I am wrap-up
 
-| Layer | Signal | 
-| ------| ------ | 
-| 🏢 Founder & CEO @ Stardust Zone | Social DeepTech for neurodivergent inclusion in STEAM & the labour market | 
-| 🔭 Co-founder @ Zenith Space | Think Tank in SpaceTech, New Stace, Space Law & Astropolitics | 
-| 🧠 Identity | Proudly AuDHD, entrepreneur, Jr Software Engineer and Maker|
-| 🌍 Operating from | São Paulo & Florianópolis, Brazil | 
-| 🎓 Academic trajectory | Now: Mechatronics Eng & IR (in progress) </br> Former: Software Eng. @ École 42 Public & Private Management (UFF/UFRRJ)|
-| 🎓 Scholarships | PGLF Russia & Bulgaria, O'Reilly DEI Scholarship, Programaria, University of La Verne, AUBG, RANEPA | 
-| 🌐 International Orbit | Professional/Academic Exchanges at </br> USA · Germany · Bulgaria · Russia · Japan · South Africa | 
+<img src="Shuri and TChalla .gif" width="40%"/> 
+</br>
+🏢 Founder & CEO @ Stardust Zone
+*(Social DeepTech for neurodivergent inclusion in STEAM & the labour market)*
+</br>
+🔭 Co-founder @ Zenith Space
+*(Think Tank in SpaceTech, New Stace, Space Law & Astropolitics)*
+</br>
+🧠 Proudly AuDHD, entrepreneur, Jr Software Engineer and Maker
+</br>
+🌍 Operating mostly from São Paulo & Florianópolis, Brazil 
+</br>
+🎓 Academic trajectory
+*(Now: Mechatronics Eng & IR (in progress) </br> Former: Software Eng. @ École 42 Public & Private Management (UFF/UFRRJ)*
+
+#### Me in the World
+
+🎓 Scholarships | PGLF Russia & Bulgaria, O'Reilly DEI Scholarship, Programaria, University of La Verne, AUBG, RANEPA 
+🌐 International Orbit | Professional/Academic Exchanges at </br> USA · Germany · Bulgaria · Russia · Japan · South Africa 
 
 </br>
 </br>
