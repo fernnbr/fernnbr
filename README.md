@@ -61,20 +61,20 @@ but also amplifies their voices, talents and impact.
 
 ## Prizes & Conquers
 
-| Recognition | Year | 
+| Role | Recognition | Year | 
 | ----- | ---- | 
-| Leader of Selected Startup (Stardust Zone) at Google Cloud for Startups | 2026 | 
-| Leader of Finalist Startup (Stardust Zone) at UpStars (CMEC/ACSP) | 2026 | 
-| Leader of Finalist Startup (Stardust Zone) at BRDE Labs SC | 2025 | 
-| Winner at Startup Weekend Socioambiental @ 42 São Paulo | 2025 | 
-| Leader of Winner Startup (Stardust Zone) at Empreendedoras Tech (MDIC / SEBRAE / ENAP / Impact Hub) | 2024 | 
-| Leader of Winner Startup (Stardust Zone) at Japan J-Wings -  (JICA + BVC) | 2024 | 
-| Leader of Finalist Startup (Stardust Zone) at 1st Public AI Competition (MDIC + Intel) | 2024 |  
-| Leader of Sealed Startup (Stardust Zone) by Jornada Startups | 2024 | 
-| Leader of Sealed Startup (Stardust Zone) by BNDES Garagem | 2023 | 
-| Leader of Sealed Startup (Stardust Zone) by Nossa Parte Pela Educação (IBRF + Quintessa)| 2023 | 
-| Leader of Sealed Startup (Universidados) by StartupRIO | 2017 | 
-| Leader of Sealed Startup (Meu Campus) by StartupRIO | 2016 | 
+| Leader of Selected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
+| Leader of Finalist Startup (Stardust Zone) | UpStars (CMEC/ACSP) | 2026 | 
+| Leader of Finalist Startup (Stardust Zone) | BRDE Labs SC | 2025 | 
+| Winner Entrepreneur | Startup Weekend Socioambiental @ 42 São Paulo | 2025 | 
+| Leader of Winner Startup (Stardust Zone) | Empreendedoras Tech (MDIC / SEBRAE / ENAP / Impact Hub) | 2024 | 
+| Leader of Winner Startup (Stardust Zone) | Japan J-Wings -  (JICA + BVC) | 2024 | 
+| Leader of Finalist Startup (Stardust Zone) | 1st Public AI Competition (MDIC + Intel) | 2024 |  
+| Leader of Sealed Startup (Stardust Zone) | Jornada Startups | 2024 | 
+| Leader of Sealed Startup (Stardust Zone) | BNDES Garagem | 2023 | 
+| Leader of Sealed Startup (Stardust Zone) | Nossa Parte Pela Educação (IBRF + Quintessa)| 2023 | 
+| Leader of Sealed Startup (Universidados) | StartupRIO (Faperj) | 2017 | 
+| Leader of Sealed Startup (Meu Campus) | StartupRIO (Faperj) | 2016 | 
 
 
 
