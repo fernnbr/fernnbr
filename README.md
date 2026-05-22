@@ -18,8 +18,8 @@ but also amplifies their voices, talents and impact
 _(yeah, like in **Black Panther's Film**)_ 
 
 ### --- 💼 --- 
-### I'm the `founder & CEO @ Stardust Zone` and co-founder at Zenith Space Center
-_building a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
+### I'm the `founder & CEO @ Stardust Zone` and co-founder at `Zenith Space Center`
+_Leading a Social Deeptech and a Think Tank while to help build a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
 
 ### --- 💻 ---
 ### Also I'm a alumni of `Software Engineering @ École 42`, and now studying Mechatronics Engineering & International Relations
