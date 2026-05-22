@@ -51,18 +51,20 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Tech Stack Section --> 
 ## My Tech Stack
 
-#### Languages
+#### Languages && Related
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+</br> 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 <!-- Include Shell --> 
+<!-- Include LexML --> 
 
 #### AI, LLMs/SLMs, ML, Data Science && DataViz
 
@@ -71,6 +73,7 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+</br> 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -93,9 +96,12 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+</br> 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+<!-- Include Akoma Ntoso --> 
+<!-- Include LEOS --> 
 
 #### Design, Creativity && Product Development 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
@@ -166,7 +172,7 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 ###### also a social entrepreneur, jr software engineer and from maker culture
 
 #### 🌍 Operating mostly from </br>
-São Paulo & Florianópolis, Brazil 
+São Paulo and Florianópolis, Brazil 
 
 #### 🎓 Academic Journey </br>
 Now: Mechatronics Eng & IR (in progress) </br> 
@@ -230,40 +236,10 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 </br>
 
-<!-- Other Stuff/Languages Section --> 
-## By the way, I'm continuously Learning: 
-
-`[C]` | `[Python]` | `[Akoma Ntoso]` | `[LexML]` | `[LEOS]` | `[C++]` |
-
-*that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open,
-interoperable systems that serve real social impact*
-
-</br>
-</br>
-
-<!-- Fields and Keywords Section --> 
-## Fields and Techniques 
-
-I'm also learning fields/techniques as:
-
-`Neural Networks` | `NLP` | `Machine Learning`, 
-
-
-because understanding how machines process language and patterns enables me to design intelligent systems that amplify human potential </br>
-and create more adaptive technologies for diverse minds, driving AI for Good
-
-<br></br>
-</details>
-
----
-
-
-<br></br>
-
-
 
 <!-- My Badges --> 
 <br></br>
+
 ## Highlighted Badges & Certifications
 
 [![Architectural Thinking](architectural-thinking.png)](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)
@@ -293,6 +269,13 @@ and create more adaptive technologies for diverse minds, driving AI for Good
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernnbr&theme=tokyonight&hide_border=true" width="60%" />
    <br></br>
 
+<!-- My Trophies -->
+![](https://github-profile-trophy.vercel.app/?username=fernnbr&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- My Languages Used -->
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernnbr&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 <br></br>
 
@@ -310,30 +293,7 @@ and create more adaptive technologies for diverse minds, driving AI for Good
 
 <br></br>
 
-
-
-
-
-
-
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=fernnbr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=fernnbr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernnbr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fernnbr&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=fernnbr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 </div>
-
 
 <div align="center">
 
