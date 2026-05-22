@@ -19,19 +19,19 @@ _(yeah, like in **Black Panther's Film**)_
 
 ### --- 💼 --- 
 ### I'm the founder & CEO @ `Stardust Zone` and co-founder at `Zenith Space Center`
-_leading these Social Deeptech and Think Tank in order to help build a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
+_leading these `Social Deeptech and Think Tank` in order to help build a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
 
 ### --- 💻 ---
 ### Also I'm a alumni of `Software Engineering` @ École 42, and now conquering my `Mechatronics Engineering & International Relations` undergrad
-_in addition to my Public and Private management (UFF/UFRRJ) background and 11 yrs experience at entrepreunership ecossystem_
+_in addition to my `Public and Private Management` background (UFF/UFRRJ) and 11 yrs experience at entrepreunership ecossystem_
 
 ### --- ⭐ --- 
-### Additionally, I'm a member at `Ifood AGI Club` and `Stanford Lemann Center Talent Network`, 
+### Additionally, I'm a member at `Ifood AGI Club`, `Forbes BLK`, `YLAI` and `Stanford Lemann Center Talent Network`, 
 _working at the intersection of tech, inclusion and education. Before that, I was a `Harvard HBASS Mentee`_
 
 ### --- 🏛️ ---
 ### Oh, and I learned other stuff in tech through 
-_`Kaggle`, `Instituto Sezerdêllo Corrêa` and a past Front-End scholarship @ `Programaria`_
+_`Kaggle`, `Instituto Sezerdêllo Corrêa`, `NASA Hackathon` and a past Front-End and Data Science scholarship @ `Programaria`_
 
 
 <!-- My Bio --> 
