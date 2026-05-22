@@ -27,7 +27,7 @@ _in addition to my Public and Private management (UFF/UFRRJ) background and 11 y
 
 ### --- ⭐ --- 
 ### Additionally, I'm a member at `Ifood AGI Club` and `Stanford Lemann Center Talent Network`, 
-_working at the intersection of tech, inclusion and education_
+_working at the intersection of tech, inclusion and education. Before that, I was a `Harvard HBASS Mentee`_
 
 ### --- 🏛️ ---
 ### Oh, and I learned other stuff in tech through 
