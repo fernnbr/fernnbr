@@ -2,8 +2,7 @@
 
 # Hi there, I'm Sarah F. Fernn | (she / her) 
 ```
-and my mission is to engineer a future where tech not only include the unheard,
-but also amplifies their voices, talents and impact
+and my mission is to engineer a future where tech not only include the unheard, but also amplifies their voices, talents and impact
 ```
 
  _Follow me here [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) and welcome!_ 
