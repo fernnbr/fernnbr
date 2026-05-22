@@ -52,6 +52,8 @@ but also amplifies their voices, talents and impact.
 | ------ | -----| 
 | Stanford Lemann Center Talent Network | Member|
 | Ifood AGI Club | Member |
+| Orgulho Empreendedor | Mentor |
+| AWE Brazil & Ecuador | Former Mentor | 
 | YLAI - Young Leaders of The Americas | Member|
 | Forbes BLK | Member |
 | Empretec | Alumni | 
