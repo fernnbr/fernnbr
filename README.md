@@ -62,7 +62,7 @@ but also amplifies their voices, talents and impact.
 ## Prizes & Conquers
 
 | Role | Recognition | Year | 
-| ----- | ---- | 
+| ----- | ---- | ----- | 
 | Leader of Selected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
 | Leader of Finalist Startup (Stardust Zone) | UpStars (CMEC/ACSP) | 2026 | 
 | Leader of Finalist Startup (Stardust Zone) | BRDE Labs SC | 2025 | 
