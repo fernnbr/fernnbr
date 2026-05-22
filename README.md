@@ -2,38 +2,60 @@
 
 ✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
 
-# Hi there, I'm Sarah F. Fernn | (she / her) 
+# Sarah F. Fernn · `Shuri` · she/her
+*Mechatronic Engineering, International Relations & Public Management* </br>
+✦_Founder; Curious; Navigator of minds & systems_✦
+
 ```
-and my mission is to engineer a future where tech not only include the unheard, but also amplifies their voices,
+My mission is to engineer a future
+where tech not only include the unheard,
+but also amplifies their voices,
 talents and impact.
 ```
+
+✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
 
  _Follow me here [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) and welcome!_ 
 
  _You are the ![](https://komarev.com/ghpvc/?username=fernnbr&color=50C878) person here_
 
+ ✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
+
 ---
+
+</br>
+</br>
+
+## ✦ Orbit Map - Who I am wrap-up
+
+| Layer | Signal | 
+| ------| ------ | 
+| 🏢 Founder & CEO @ Stardust Zone | Social DeepTech for neurodivergent inclusion in STEAM & the labour market | 
+| 🔭 Co-founder @ Zenith Space | Think Tank in SpaceTech, New Stace, Space Law & Astropolitics | 
+| 🧠 Identity | Proudly AuDHD, entrepreneur, Jr Software Engineer and Maker|
+| 🌍 Operating from | São Paulo & Florianópolis, Brazil | 
+| 🎓 Academic trajectory | Now: Mechatronics Eng & IR (in progress) </br> Former: Software Eng. @ École 42 Public & Private Management (UFF/UFRRJ)|
+| 🎓 Scholarships | PGLF Russia & Bulgaria, O'Reilly DEI Scholarship, Programaria, University of La Verne, AUBG, RANEPA | 
+| 🌐 International Orbit | Professional/Academic Exchanges at </br> USA · Germany · Bulgaria · Russia · Japan · South Africa | 
+
+</br>
+</br>
+
+## ✦  Constellation - My Networks & Recognitions
+
+| Network | Role |
+| ------ | -----| 
+| Stanford Lemann Center Talent Network | Member|
+| Ifood AGI Club | Member |
+| YLAI - Young Leaders of The Americas | Member|
+| Forbes BLK | Member |
+| Empretec | Alumni | 
+| G20 Brasil 2024 | IR Leader / TF Investment | 
+| G20 South Africa 2025 | Member | 
+| Harvard HBASS 2024 | Mentee |
+
+
  
-<!-- My Presentation --> 
-###  --- 🖤 ---  
-### My nick is Shuri 
-_(yeah, like in **Black Panther's Film**)_ 
-
-### --- 💼 --- 
-### I'm the founder & CEO @ `Stardust Zone` and co-founder at `Zenith Space Center`
-_leading these `Social Deeptech and Think Tank` in order to help build a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
-
-### --- 💻 ---
-### Also I'm a alumni of `Software Engineering` @ École 42, and now conquering my `Mechatronics Engineering & International Relations` undergrad
-_in addition to my `Public and Private Management` background (UFF/UFRRJ) and 11 yrs experience at entrepreunership ecossystem_
-
-### --- ⭐ --- 
-### Additionally, I'm a member at `Ifood AGI Club`, `Forbes BLK`, `YLAI` and `Stanford Lemann Center Talent Network`, 
-_working at the intersection of tech, inclusion and education. Before that, I was a `Harvard HBASS Mentee`_
-
-### --- 🏛️ ---
-### Oh, and I learned other stuff in tech through 
-_`Kaggle`, `Instituto Sezerdêllo Corrêa`, `NASA Hackathon` and a past Front-End and Data Science scholarship @ `Programaria`_
 
 
 <!-- My Bio --> 
