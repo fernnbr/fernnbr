@@ -58,8 +58,7 @@ _`Kaggle`, `Instituto Sezerdêllo Corrêa` and a past Front-End scholarship @ `P
  `DeepTech areas`
 
 ```
-because I believe technology should empower people,
-foster inclusion, and be a force for systemic change
+because I believe technology should empower people, foster inclusion, and be a force for systemic change
 especially for those historically left on the margins
 ```
 
@@ -80,8 +79,7 @@ especially for those historically left on the margins
 `[C]` | `[Python]` | `[Akoma Ntoso]` | `[LexML]` | `[LEOS]` | `[C++]` |
 
 ```
-that nowadays help me to build inclusive digital legal frameworks, 
-develop civic-minded tools, and contribute to open,
+that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open,
 interoperable systems that serve real social impact
 ```
 
