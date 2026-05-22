@@ -150,28 +150,42 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Descriptive Section --> 
 ## ✦ About Me
 
+</br>
 
 <img src="Shuri and TChalla .gif" width="40%"/> 
 
+</br>
+
+#### 🏢 Founder & CEO @ `Stardust Zone` </br>
+###### The Social DeepTech for neurodivergent inclusion in STEAM & the labour market
+
+#### 🔭 Co-founder @ `Zenith Space` </br>
+###### The Think Tank in SpaceTech, New Stace, Space Law & Astropolitics
+
+#### 🧠 I'm Proudly `AuDHD` </br> 
+###### also a social entrepreneur, jr software engineer and from maker culture
+
+#### 🌍 Operating mostly from </br>
+São Paulo & Florianópolis, Brazil 
+
+#### 🎓 Academic Journey </br>
+Now: Mechatronics Eng & IR (in progress) </br> 
+Former: Software Eng. @ École 42 Public & Private Management (UFF/UFRRJ)
 
 </br>
-🏢 Founder & CEO @ Stardust Zone
-*(Social DeepTech for neurodivergent inclusion in STEAM & the labour market)*
-</br>
-🔭 Co-founder @ Zenith Space
-*(Think Tank in SpaceTech, New Stace, Space Law & Astropolitics)*
-</br>
-🧠 Proudly AuDHD, entrepreneur, Jr Software Engineer and Maker
-</br>
-🌍 Operating mostly from São Paulo & Florianópolis, Brazil 
-</br>
-🎓 Academic trajectory
-*(Now: Mechatronics Eng & IR (in progress) </br> Former: Software Eng. @ École 42 Public & Private Management (UFF/UFRRJ)*
 
-#### Me in the World
+### Me in the World 
+</br>
 
-🎓 Scholarships | PGLF Russia & Bulgaria, O'Reilly DEI Scholarship, Programaria, University of La Verne, AUBG, RANEPA 
-🌐 International Orbit | Professional/Academic Exchanges at </br> USA · Germany · Bulgaria · Russia · Japan · South Africa 
+🎓 **Scholarships** </br> 
+PGLF Russia & Bulgaria, O'Reilly DEI Scholarship, </br>
+Programaria, University of La Verne, AUBG, RANEPA 
+</br>
+</br>
+
+🌐 **International Orbit** </br>
+Professional/Academic Exchanges at </br> 
+USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 </br>
 </br>
