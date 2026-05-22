@@ -1,7 +1,6 @@
 <div align="center">
 
 
-
 # Sarah F. Fernn · `Shuri` · she/her
 *Mechatronic Engineering, International Relations & Public Management* </br>
 ✦_Founder; Curious; Navigator of minds & systems_✦
@@ -15,6 +14,8 @@
 but also amplifies their voices, talents and impact.*</br>
 </br>
 ✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   · </br>
+
+<img src="shuri by tech.webp" width="100%" />
 
 ---
 <!-- Welcome Section --> 
