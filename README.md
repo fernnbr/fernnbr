@@ -1,26 +1,28 @@
 <div align="center">
 
-✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
+
 
 # Sarah F. Fernn · `Shuri` · she/her
 *Mechatronic Engineering, International Relations & Public Management* </br>
 ✦_Founder; Curious; Navigator of minds & systems_✦
 
-###### Engaged on `SpaceTech`, `CivicTech`, `DeepTech` and `NeuroTech` areas 
+###### Engaged on `SpaceTech`, `CivicTech`, `DeepTech` and `NeuroTech` areas </br>
 
 
-```
-My mission is to engineer a future where tech not only include the unheard,
-but also amplifies their voices, talents and impact.
-```
+✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·</br>
+</br>
+*My mission is to engineer a future where tech not only include the unheard,</br>
+but also amplifies their voices, talents and impact.*</br>
+</br>
+✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   · </br>
 
-✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
+---
+
+## Welcome! 
 
  _Follow me here [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) and welcome!_ 
 
  _You are the ![](https://komarev.com/ghpvc/?username=fernnbr&color=50C878) person here_
-
- ✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
 
 ---
 
@@ -82,69 +84,24 @@ but also amplifies their voices, talents and impact.
 | Leader of Sealed Startup (Meu Campus) | StartupRIO (Faperj) | 2016 | 
 
 
-
- 
-
-<!-- My Bio --> 
-<br></br>
-# More About Me 
-
-### 🔎 Focus, Knowledge Application and Engagement 
-<details>
-<summary> ------- Click to show ------- </summary>
-
-  <br></br>
-
-#### Currently I'm exploring:
-
-`DevOps`,
-`A.I. for Good`,
-`Software Architecture` 
-`Eletronics & Robotics` 
-
-#### Also Engaged in these Areas: 
-
-`CivicTech`, 
-`SocialTech`,
- `DeepTech areas`
-
-```
-because I believe technology should empower people, foster inclusion, and be a force for systemic change
-especially for those historically left on the margins
-```
-
-<br></br>
-
-</details>
-
-<br></br>
-
-### 📘 My Learnings
-
-<details>
-<summary> ------- Click to show ------- </summary>
-<br></br>
-
-#### By the way, I'm continuously Learning: 
+## By the way, I'm continuously Learning: 
 
 `[C]` | `[Python]` | `[Akoma Ntoso]` | `[LexML]` | `[LEOS]` | `[C++]` |
 
-```
-that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open,
-interoperable systems that serve real social impact
-```
+*that nowadays help me to build inclusive digital legal frameworks, develop civic-minded tools, and contribute to open,
+interoperable systems that serve real social impact*
 
-#### Fields and Techniques 
+
+## Fields and Techniques 
 
 I'm also learning fields/techniques as:
 
 `Neural Networks` | `NLP` | `Machine Learning`, 
 
-```
-because understanding how machines process language and patterns 
-enables me to design intelligent systems that amplify human potential 
+
+because understanding how machines process language and patterns enables me to design intelligent systems that amplify human potential </br>
 and create more adaptive technologies for diverse minds, driving AI for Good
-```
+
 <br></br>
 </details>
 
@@ -158,7 +115,7 @@ and create more adaptive technologies for diverse minds, driving AI for Good
 
 <!-- My Badges --> 
 <br></br>
-# Highlighted Badges & Certifications
+## Highlighted Badges & Certifications
 
 [![Architectural Thinking](architectural-thinking.png)](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)
 [![Eletronics Cookbook](electronics-cookbook.png)](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)
@@ -217,7 +174,6 @@ and create more adaptive technologies for diverse minds, driving AI for Good
 
 <div align="center">
 
-<img src="https://github.com/fernnbr/fernnbr/blob/main/farming_aura.gif" width="50%" />
 
 </div>
 
