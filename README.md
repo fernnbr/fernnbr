@@ -7,10 +7,8 @@
 ✦_Founder; Curious; Navigator of minds & systems_✦
 
 ```
-My mission is to engineer a future
-where tech not only include the unheard,
-but also amplifies their voices,
-talents and impact.
+My mission is to engineer a future where tech not only include the unheard,
+but also amplifies their voices, talents and impact.
 ```
 
 ✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
