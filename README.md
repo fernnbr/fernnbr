@@ -18,17 +18,20 @@ but also amplifies their voices, talents and impact
 _(yeah, like in **Black Panther's Film**)_ 
 
 ### --- 💼 --- 
-### I'm the `founder & CEO @ Stardust Zone`, 
-_working for neurodivergent inclusion and prosperity amongst societies_
+### I'm the `founder & CEO @ Stardust Zone` and co-founder at Zenith Space Center
+_building a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
 
 ### --- 💻 ---
-### Also I'm studying `Software Engineering @ École 42`, 
-_in addition to my IR, Public and Private management background_
+### Also I'm a alumni of `Software Engineering @ École 42`, and now studying Mechatronics Engineering & International Relations
+_in addition to my Public and Private management background and 11 yrs experience at entrepreunership ecossystem_
+
+### --- ⭐ --- 
+### Additionally, I'm a member at `Ifood AGI Club` and `Stanford Lemann Center Talent Network`, 
+_working at the intersection of tech, inclusion and education_
 
 ### --- 🏛️ ---
 ### Oh, and I learned other stuff in tech through 
 _`Kaggle`, `Instituto Sezerdêllo Corrêa` and a past Front-End scholarship @ `Programaria`_
-
 
 
 <!-- My Bio --> 
@@ -46,6 +49,7 @@ _`Kaggle`, `Instituto Sezerdêllo Corrêa` and a past Front-End scholarship @ `P
 `DevOps`,
 `A.I. for Good`,
 `Software Architecture` 
+`Eletronics & Robotics` 
 
 #### Also Engaged in these Areas: 
 
@@ -73,7 +77,7 @@ especially for those historically left on the margins
 
 #### By the way, I'm continuously Learning: 
 
-`[C]` | `[Python]` | `[Akoma Ntoso]` | `[LexML]` | `[LEOS]`, 
+`[C]` | `[Python]` | `[Akoma Ntoso]` | `[LexML]` | `[LEOS]` | `[C++]` |
 
 ```
 that nowadays help me to build inclusive digital legal frameworks, 
