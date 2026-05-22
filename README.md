@@ -22,8 +22,8 @@ _(yeah, like in **Black Panther's Film**)_
 _leading these Social Deeptech and Think Tank in order to help build a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
 
 ### --- 💻 ---
-### Also I'm a alumni of `Software Engineering` @ École 42, and now conquering my `Mechatronics Engineering & International Relations`undergrad
-_in addition to my Public and Private management background and 11 yrs experience at entrepreunership ecossystem_
+### Also I'm a alumni of `Software Engineering` @ École 42, and now conquering my `Mechatronics Engineering & International Relations` undergrad
+_in addition to my Public and Private management (UFF/UFRRJ) background and 11 yrs experience at entrepreunership ecossystem_
 
 ### --- ⭐ --- 
 ### Additionally, I'm a member at `Ifood AGI Club` and `Stanford Lemann Center Talent Network`, 
