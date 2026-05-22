@@ -56,15 +56,18 @@ but also amplifies their voices, talents and impact.
 
 | Recognition | Year | 
 | ----- | ---- | 
-| Leader of Selected Startup at Google Cloud for Startups | 2026 | 
-| Leader of Finalist Startup at UpStars (CMEC/ACSP) | 2026 | 
-| Leader of Finalist Startup at BRDE Labs SC | 2025 | 
-| Leader of Winner Startup at Empreendedoras Tech (MDIC / SEBRAE / ENAP / Impact Hub) | 2024 | 
-| Leader of Winner Startup at Japan J-Wings -  (JICA + BVC) | 2024 | 
-| Leader of Finalist Startup at 1st Public AI Competition (MDIC + Intel) | 2024 |  
-| Leader of Sealed Startup by Jornada Startups | 2024 | 
-| Leader of Sealed Startup by BNDES Garagem | 2023 | 
-| Leader of Sealed Startup by Nossa Parte Pela Educação (IBRF + Quintessa)| 2023 | 
+| Leader of Selected Startup (Stardust Zone) at Google Cloud for Startups | 2026 | 
+| Leader of Finalist Startup (Stardust Zone) at UpStars (CMEC/ACSP) | 2026 | 
+| Leader of Finalist Startup (Stardust Zone) at BRDE Labs SC | 2025 | 
+| Winner at Startup Weekend Socioambiental @ 42 São Paulo | 2025 | 
+| Leader of Winner Startup (Stardust Zone) at Empreendedoras Tech (MDIC / SEBRAE / ENAP / Impact Hub) | 2024 | 
+| Leader of Winner Startup (Stardust Zone) at Japan J-Wings -  (JICA + BVC) | 2024 | 
+| Leader of Finalist Startup (Stardust Zone) at 1st Public AI Competition (MDIC + Intel) | 2024 |  
+| Leader of Sealed Startup (Stardust Zone) by Jornada Startups | 2024 | 
+| Leader of Sealed Startup (Stardust Zone) by BNDES Garagem | 2023 | 
+| Leader of Sealed Startup (Stardust Zone) by Nossa Parte Pela Educação (IBRF + Quintessa)| 2023 | 
+| Leader of Sealed Startup (Universidados) by StartupRIO | 2017 | 
+| Leader of Sealed Startup (Meu Campus) by StartupRIO | 2016 | 
 
 
 
