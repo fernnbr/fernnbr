@@ -18,7 +18,7 @@ talents and impact.
 _(yeah, like in **Black Panther's Film**)_ 
 
 ### --- 💼 --- 
-### I'm the `founder & CEO @ Stardust Zone` and co-founder at `Zenith Space Center`
+### I'm the founder & `CEO @ Stardust Zone` and co-founder at `Zenith Space Center`
 _leading these Social Deeptech and Think Tank in order to help build a cosmos where neurodivergent talent powers humanity's future and no mind is left behind as we reach for the stars_
 
 ### --- 💻 ---
