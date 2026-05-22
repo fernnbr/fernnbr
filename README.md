@@ -8,6 +8,7 @@
 
 ###### Engaged on `SpaceTech`, `CivicTech`, `DeepTech` and `NeuroTech` areas 
 
+
 ```
 My mission is to engineer a future where tech not only include the unheard,
 but also amplifies their voices, talents and impact.
