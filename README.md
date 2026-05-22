@@ -52,9 +52,23 @@ but also amplifies their voices, talents and impact.
 | G20 South Africa 2025 | Member | 
 | Harvard HBASS 2024 | Mentee |
 
+## Prizes & Conquers
+
+| Recognition | Year | 
+| ----- | ---- | 
+| Leader of Selected Startup at Google Cloud for Startups | 2026 | 
+| Leader of Finalist Startup at UpStars (CMEC/ACSP) | 2026 | 
+| Leader of Finalist Startup at BRDE Labs SC | 2025 | 
+| Leader of Winner Startup at Empreendedoras Tech (MDIC / SEBRAE / ENAP / Impact Hub) | 2024 | 
+| Leader of Winner Startup at Japan J-Wings -  (JICA + BVC) | 2024 | 
+| Leader of Finalist Startup at 1st Public AI Competition (MDIC + Intel) | 2024 |  
+| Leader of Sealed Startup by Jornada Startups | 2024 | 
+| Leader of Sealed Startup by BNDES Garagem | 2023 | 
+| Leader of Sealed Startup by Nossa Parte Pela Educação (IBRF + Quintessa)| 2023 | 
+
+
 
  
-
 
 <!-- My Bio --> 
 <br></br>
