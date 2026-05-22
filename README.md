@@ -1,5 +1,7 @@
 <div align="center">
 
+✦ ·  ·   ✦  ·   · ✦  ·  ✦  ·   ✦   ·  ·   ✦   ·  ✦  ·  ·   ✦   ·
+
 # Hi there, I'm Sarah F. Fernn | (she / her) 
 ```
 and my mission is to engineer a future where tech not only include the unheard, but also amplifies their voices,
