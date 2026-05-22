@@ -121,6 +121,8 @@ and create more adaptive technologies for diverse minds, driving AI for Good
 [![Neural Networks](neural-networks.png)](https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url)
 [![ChatGPT Cybersecurity](chatgpt-cybersecurity.png)](https://www.credly.com/badges/69edba7b-52ce-4d48-aaaf-61eff9669749/public_url)
 [![Eletronics for Everyone](electronics-for-everyone.png)](https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url)
+[![Math Foundations for AI](math-foundation-for-ai.png)](https://www.credly.com/badges/08831ac0-e00e-42dc-bcab-6eb2a9d8aa52/public_url)
+[![MLOps: CI/CD & Deployment](mlops-ci-cd-deployment.png)](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)
 
 </div>
 
