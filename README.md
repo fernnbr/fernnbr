@@ -143,15 +143,11 @@ and create more adaptive technologies for diverse minds, driving AI for Good
    <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernnbr&theme=tokyonight&hide_border=true" width="60%" />
    <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fernnbr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="60%" /> </br>
- <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernnbr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="30%" /> </br>
+
 </div>
 <br></br>
 
 </div>
-
----
 
 <br></br>
 
@@ -165,9 +161,6 @@ and create more adaptive technologies for diverse minds, driving AI for Good
 
 <br></br>
 
-<div align="center">
-
-# Contact me at [![Linkedin](https://img.shields.io/badge/-fernnbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfernn/)](https://www.linkedin.com/in/sarahffernn/)
 
 </div>
 
