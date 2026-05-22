@@ -49,7 +49,7 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 </br>
 
 <!-- Tech Stack Section --> 
-## My Tech Stack
+# ✦ My Tech Stack
 
 #### Languages && Related
 
@@ -154,12 +154,13 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 </br>
 
 <!-- Descriptive Section --> 
-## ✦ About Me
+# ✦ About Me
 
 </br>
 
-<img src="Shuri and TChalla .gif" width="40%"/> 
+<img src="shuri-research.gif" width="100%"/> 
 
+</br>
 </br>
 
 #### 🏢 Founder & CEO @ `Stardust Zone` </br>
@@ -197,7 +198,9 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- Network Section --> 
-## My Networks & Recognitions
+# ✦ My Networks & Recognitions
+
+</br> 
 
 | Network | Role |
 | ------ | -----| 
@@ -216,7 +219,14 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- Prizes Section --> 
-## Prizes & Conquers
+# ✦ Prizes & Conquers
+
+</br> 
+
+<img src="shuri-wkforever.gif" width="100%"/> 
+
+</br> 
+</br> 
 
 | Role | Recognition | Year | 
 | ----- | ---- | ----- | 
@@ -236,11 +246,13 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 </br>
 
-
 <!-- My Badges --> 
 <br></br>
 
-## Highlighted Badges & Certifications
+# ✦ Highlighted Badges & Certifications
+
+</br> 
+</br> 
 
 [![Architectural Thinking](architectural-thinking.png)](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)
 [![Eletronics Cookbook](electronics-cookbook.png)](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)
@@ -257,12 +269,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 </div>
 
-
 <!-- My Stats -->
 <div align="center">
 <br></br>
   
-# Check My Stats 
+# ✦ My Stats 
 <div align="center">
 
    <br></br>
@@ -294,6 +305,8 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 <br></br>
 
 </div>
+
+<img src="shuri-drives.gif" width="100%"/> 
 
 <div align="center">
 
