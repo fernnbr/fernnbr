@@ -261,7 +261,7 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- 03 Badge: Machine Learning Basics --> 
-<a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url">
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url)">
   <img src="machine-learning-basics.2.png" width="14%" alt="Machine Learning Basics" />
 </a>
 
