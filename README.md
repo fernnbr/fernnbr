@@ -382,6 +382,16 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="cybersecurity-for-small-business.png" width="14%" alt="Cybersecurity for Small Business" />
 </a>
 
+<!-- 23 Badge: Network Hardware Threats --> 
+<a href="https://www.credly.com/badges/523341da-0244-4dcd-a59a-c09e5c863734/public_url">
+  <img src="network-hardware-threats.png" width="14%" alt="Network Hardware Threats" />
+</a>
+
+<!-- 24 Badge: Cybersecurity Vulnerabilities --> 
+<a href="https://www.credly.com/badges/c9eef4d6-c4ee-4b60-b029-abbf387fafce/public_url">
+  <img src="cybersecurity-vulnerabilities.png" width="14%" alt="Cybersecurity Vulnerabilities" />
+</a>
+
 
 ### Governance & Legislation 
 
