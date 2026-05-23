@@ -402,6 +402,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview" />
 </a>
 
+<!-- 26 Badge: Cybersecurity Laws & Regs --> 
+<a href="https://www.credly.com/badges/8393639b-3596-43c7-89c7-b0189b5862cb/public_url">
+  <img src="cybersecurity-laws-regs.png" width="14%" alt="Cybersecurity Laws & Regs" />
+</a>
+
 
 </div>
 
