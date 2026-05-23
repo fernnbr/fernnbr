@@ -351,11 +351,16 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <br></br>
 
+
+  <!-- Add more badges -->
+</div>
+
 </div>
 
 <img src="shuri-drives.gif" width="100%"/> 
 
 <div align="center">
+
 
 
 </div>
