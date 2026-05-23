@@ -316,6 +316,12 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting" />
 </a>
 
+<!-- 13 Badge: Flipper Zero Essentials --> 
+<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url)">
+  <img src="flipper-zero-essentials.png" width="14%" alt="Flipper Zero Essentials" />
+</a>
+
+
 </div>
 
 <!-- My Stats -->
