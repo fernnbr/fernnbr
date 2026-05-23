@@ -321,6 +321,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="flipper-zero-essentials.png" width="14%" alt="Flipper Zero Essentials" />
 </a>
 
+<!-- 14 Badge: AI Regulations Overview --> 
+<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url](https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url)">
+  <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview" />
+</a>
+
 
 </div>
 
