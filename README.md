@@ -304,8 +304,6 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="ai-agents-basics-to-advanced.png" width="14%" alt="AI Agents: Basic to Advanced" />
 </a>
 
-<br>
-
 <!-- 19 Badge: Agentic AI in Action --> 
 <a href="https://www.credly.com/badges/42b6ee9e-2aa8-4dfd-9985-21fab413fa36/public_url">
   <img src="agentic-ai-in-action.png" width="14%" alt="Agentic AI in Action" />
