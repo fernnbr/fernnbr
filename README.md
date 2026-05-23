@@ -23,12 +23,15 @@ but also amplifies their voices, talents and impact.
 
 ---
 <!-- Welcome Section --> 
-
-## Welcome, crew!  
+</br> 
+<h1 style="font-size: 7em; color: #fbbc04; ">Welcome, crew</h1>
+</br> 
 
  _Follow me here [![GitHub](https://img.shields.io/github/followers/fernnbr?label=follow&style=social)](https://github.com/fernnbr) and welcome!_ 
 
  _You are the ![](https://komarev.com/ghpvc/?username=fernnbr&color=50C878) person here_
+
+</br> 
 
  ```
 Besides being a social entrepreneur on inclusion, accessibily and education in cognitive diversity applied
@@ -42,8 +45,7 @@ with a special focus on techno-geopolitics and innovation diplomacy.
 I am driven to analyze and navigate the interplay between emerging technologies and the multifaceted systems
 of global affairs and areas contemplated by antecipatory science, as astropolitics and neurotechnology. 
 ```
-
----
+</br> 
 
 </br>
 </br>
