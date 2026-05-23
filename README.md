@@ -326,6 +326,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview" />
 </a>
 
+<!-- 15 Badge: Pentesting Tools Techniques --> 
+<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url](https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url)](https://www.credly.com/badges/40f96f32-f472-42f4-a813-9d0062e1076e/public_url)">
+  <img src="pen-testing-tools-techniques.png" width="14%" alt="Pentesting Tools Techniques" />
+</a>
+
 
 </div>
 
