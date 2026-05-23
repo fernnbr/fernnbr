@@ -262,10 +262,10 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 [![From Programmer to Software Archtecture](programmer-to-soft-arch.png)](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)
 [![Ai Agents: Basic to Advanced](ai-agents-basics-to-advanced.png)](https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url)
 [![Neural Networks](neural-networks.png)](https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url)
-[![ChatGPT Cybersecurity](chatgpt-cybersecurity.png)](https://www.credly.com/badges/69edba7b-52ce-4d48-aaaf-61eff9669749/public_url)
 [![Eletronics for Everyone](electronics-for-everyone.png)](https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url)
 [![Math Foundations for AI](math-foundation-for-ai.png)](https://www.credly.com/badges/08831ac0-e00e-42dc-bcab-6eb2a9d8aa52/public_url)
 [![MLOps: CI/CD & Deployment](mlops-ci-cd-deployment.png)](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)
+[![Intro to IoT Pentesting](intro-to-iot-pentesting.png)](https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url)
 
 </div>
 
