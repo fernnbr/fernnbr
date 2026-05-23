@@ -256,6 +256,18 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br> 
 </br> 
 
+### Programming Languages
+
+<!-- 17 Badge: Julia 101 --> 
+<a href="https://www.credly.com/badges/da296d46-a17f-473d-9af8-630c69ca9b8c/public_url">
+  <img src="julia-programming-101.png" width="14%" alt="Julina 101" />
+</a>
+
+<!-- 20 Badge: C Bootcamp --> 
+<a href="https://www.credly.com/badges/ef63901c-3a41-47f6-990c-17205ec873dc/public_url">
+  <img src="c-programming-bootcamp.png" width="14%" alt="C Bootcamp" />
+</a>
+
 ### AI & Machine Learning
 
 </br>
@@ -266,28 +278,35 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </a>
 
 <!-- 04 Badge: Probability / Statistics - The Foundations of Machine Learning --> 
-<a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url">
+<a href="https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url">
   <img src="prob-stats-for-ml.1.png" width="14%" alt="Probability / Statistics - The Foundations of Machine Learning" />
 </a>
 
 <!-- 05 Badge: Deep Learning Concepts --> 
-<a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url">
+<a href="https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url">
   <img src="deep-learning-concepts.png" width="14%" alt="Deep Learning Concepts" />
 </a>
 
 <!-- 08 Badge: Neural Networks --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url)">
+<a href="https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url">
   <img src="neural-networks.png" width="14%" alt="Neural Networks" />
 </a>
 
 <!-- 10 Badge: Math Foundations for AI --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/08831ac0-e00e-42dc-bcab-6eb2a9d8aa52/public_url)">
+<a href="https://www.credly.com/badges/08831ac0-e00e-42dc-bcab-6eb2a9d8aa52/public_url">
   <img src="math-foundation-for-ai.png" width="14%" alt="Math Foundations for AI"/>
 </a>
 
 <!-- 07 Badge: AI Agents: Basic to Advanced --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url)">
+<a href="https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url">
   <img src="ai-agents-basics-to-advanced.png" width="14%" alt="AI Agents: Basic to Advanced" />
+</a>
+
+<br>
+
+<!-- 19 Badge: Agentic AI in Action --> 
+<a href="https://www.credly.com/badges/42b6ee9e-2aa8-4dfd-9985-21fab413fa36/public_url">
+  <img src="agentic-ai-in-action.png" width="14%" alt="Agentic AI in Action" />
 </a>
 
 <br>
@@ -297,22 +316,22 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- 01 Badge: Architectural Thinking --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)">
+<a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url">
   <img src="architectural-thinking.png" width="14%" alt="Architectural Thinking" />
 </a>
 
 <!-- 06 Badge: From Programmer to Software Archtecture --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)">
+<a href="https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url">
   <img src="programmer-to-soft-arch.png" width="14%" alt="From Programmer to Software Archtecture" />
 </a>
 
 <!-- 11 Badge: MLOps: CI/CD & Deployment --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)">
+<a href="https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url">
   <img src="mlops-ci-cd-deployment.png" width="14%" alt="MLOps: CI/CD & Deployment" />
 </a>
 
 <!-- 16 Badge: Backend Engineering --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)](https://www.credly.com/badges/8a0de06b-ded5-4637-bc07-164595ec8b29/public_url)">
+<a href="https://www.credly.com/badges/8a0de06b-ded5-4637-bc07-164595ec8b29/public_url">
   <img src="backend-engineering (1).png" width="14%" alt="Backend Engineering" />
 </a>
 
@@ -323,17 +342,17 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- 09 Badge: Eletronics for Everyone --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url)">
+<a href="https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url">
   <img src="electronics-for-everyone.png" width="14%" alt="Eletronics for Everyone " />
 </a>
 
 <!-- 12 Badge: Intro to IoT Pentesting --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url)">
+<a href="https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url">
   <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting" />
 </a>
 
 <!-- 02 Badge: Eletronics Cookbook --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)">
+<a href="https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url">
   <img src="electronics-cookbook.png" width="14%" alt="Eletronics Cookbook" />
 </a>
 
@@ -344,13 +363,23 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- 13 Badge: Flipper Zero Essentials --> 
-<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url)">
+<a href="https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url">
   <img src="flipper-zero-essentials.png" width="14%" alt="Flipper Zero Essentials" />
 </a>
 
 <!-- 15 Badge: Pentesting Tools Techniques --> 
-<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url](https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url)](https://www.credly.com/badges/40f96f32-f472-42f4-a813-9d0062e1076e/public_url)">
+<a href="https://www.credly.com/badges/40f96f32-f472-42f4-a813-9d0062e1076e/public_url">
   <img src="pen-testing-tools-techniques.png" width="14%" alt="Pentesting Tools Techniques" />
+</a>
+
+<!-- 21 Badge: Cybersecurity Architecture --> 
+<a href="https://www.credly.com/badges/22036533-326b-4535-ba1c-ce33c3f9e9c9/public_url">
+  <img src="cybersecurity-architecture.1.png" width="14%" alt="Cybersecurity Architecture" />
+</a>
+
+<!-- 22 Badge: Cybersecurity for Small Business --> 
+<a href="https://www.credly.com/badges/cc0c7eff-f882-4819-ab8a-606f6c22a443/public_url">
+  <img src="cybersecurity-for-small-business.png" width="14%" alt="Cybersecurity for Small Business" />
 </a>
 
 
@@ -359,7 +388,7 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- 14 Badge: AI Regulations Overview --> 
-<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url](https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url)">
+<a href="https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url">
   <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview" />
 </a>
 
