@@ -256,15 +256,9 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br> 
 </br> 
 
-<!-- 01 Badge: Architectural Thinking --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)">
-  <img src="architectural-thinking.png" width="14%" alt="Architectural Thinking" />
-</a>
+### AI & Machine Learning
 
-<!-- 02 Badge: Eletronics Cookbook --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)">
-  <img src="electronics-cookbook.png" width="14%" alt="Eletronics Cookbook" />
-</a>
+</br>
 
 <!-- 03 Badge: Machine Learning Basics --> 
 <a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url)">
@@ -281,24 +275,9 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="deep-learning-concepts.png" width="14%" alt="Deep Learning Concepts" />
 </a>
 
-<!-- 06 Badge: From Programmer to Software Archtecture --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)">
-  <img src="programmer-to-soft-arch.png" width="14%" alt="From Programmer to Software Archtecture" />
-</a>
-
-<!-- 07 Badge: AI Agents: Basic to Advanced --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url)">
-  <img src="ai-agents-basics-to-advanced.png" width="14%" alt="AI Agents: Basic to Advanced" />
-</a>
-
 <!-- 08 Badge: Neural Networks --> 
 <a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url)">
   <img src="neural-networks.png" width="14%" alt="Neural Networks" />
-</a>
-
-<!-- 09 Badge: Eletronics for Everyone --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url)">
-  <img src="electronics-for-everyone.png" width="14%" alt="Eletronics for Everyone " />
 </a>
 
 <!-- 10 Badge: Math Foundations for AI --> 
@@ -306,9 +285,41 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="math-foundation-for-ai.png" width="14%" alt="Math Foundations for AI"/>
 </a>
 
+<!-- 07 Badge: AI Agents: Basic to Advanced --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url)">
+  <img src="ai-agents-basics-to-advanced.png" width="14%" alt="AI Agents: Basic to Advanced" />
+</a>
+
+<br>
+
+### Software Architecture & Engineering
+
+</br>
+
+<!-- 01 Badge: Architectural Thinking --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)">
+  <img src="architectural-thinking.png" width="14%" alt="Architectural Thinking" />
+</a>
+
+<!-- 06 Badge: From Programmer to Software Archtecture --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)">
+  <img src="programmer-to-soft-arch.png" width="14%" alt="From Programmer to Software Archtecture" />
+</a>
+
 <!-- 11 Badge: MLOps: CI/CD & Deployment --> 
 <a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)">
   <img src="mlops-ci-cd-deployment.png" width="14%" alt="MLOps: CI/CD & Deployment" />
+</a>
+
+<br>
+
+### Electronics & IoT
+
+</br>
+
+<!-- 09 Badge: Eletronics for Everyone --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url)">
+  <img src="electronics-for-everyone.png" width="14%" alt="Eletronics for Everyone " />
 </a>
 
 <!-- 12 Badge: Intro to IoT Pentesting --> 
@@ -316,19 +327,35 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting" />
 </a>
 
+<!-- 02 Badge: Eletronics Cookbook --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)">
+  <img src="electronics-cookbook.png" width="14%" alt="Eletronics Cookbook" />
+</a>
+
+</br> 
+
+### Cybersecurity, Pentesting & Ethical Hacking
+
+</br>
+
 <!-- 13 Badge: Flipper Zero Essentials --> 
 <a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url)">
   <img src="flipper-zero-essentials.png" width="14%" alt="Flipper Zero Essentials" />
 </a>
 
-<!-- 14 Badge: AI Regulations Overview --> 
-<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url](https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url)">
-  <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview" />
-</a>
-
 <!-- 15 Badge: Pentesting Tools Techniques --> 
 <a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url](https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url)](https://www.credly.com/badges/40f96f32-f472-42f4-a813-9d0062e1076e/public_url)">
   <img src="pen-testing-tools-techniques.png" width="14%" alt="Pentesting Tools Techniques" />
+</a>
+
+
+### Governance & Legislation 
+
+</br>
+
+<!-- 14 Badge: AI Regulations Overview --> 
+<a href="[https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url](https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url)">
+  <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview" />
 </a>
 
 
