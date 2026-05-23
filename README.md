@@ -311,6 +311,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="mlops-ci-cd-deployment.png" width="14%" alt="MLOps: CI/CD & Deployment" />
 </a>
 
+<!-- 16 Badge: Backend Engineering --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)](https://www.credly.com/badges/8a0de06b-ded5-4637-bc07-164595ec8b29/public_url)">
+  <img src="backend-engineering (1).png" width="14%" alt="Backend Engineering" />
+</a>
+
 <br>
 
 ### Electronics & IoT
