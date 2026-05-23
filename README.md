@@ -254,18 +254,65 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br> 
 </br> 
 
-[![Architectural Thinking](architectural-thinking.png)](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)
-[![Eletronics Cookbook](electronics-cookbook.png)](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)
-[![Machine Learning Basics](machine-learning-basics.2.png)](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url)
-[![Probability / Statistics - The Foundations of Machine Learning](prob-stats-for-ml.1.png)](https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url)
-[![Deep Learning Concepts](deep-learning-concepts.png)](https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url)
-[![From Programmer to Software Archtecture](programmer-to-soft-arch.png)](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)
-[![Ai Agents: Basic to Advanced](ai-agents-basics-to-advanced.png)](https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url)
-[![Neural Networks](neural-networks.png)](https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url)
-[![Eletronics for Everyone](electronics-for-everyone.png)](https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url)
-[![Math Foundations for AI](math-foundation-for-ai.png)](https://www.credly.com/badges/08831ac0-e00e-42dc-bcab-6eb2a9d8aa52/public_url)
-[![MLOps: CI/CD & Deployment](mlops-ci-cd-deployment.png)](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)
-[![Intro to IoT Pentesting](intro-to-iot-pentesting.png)](https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url)
+<!-- 01 Badge: Architectural Thinking --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url)">
+  <img src="architectural-thinking.png" width="14%" alt="Architectural Thinking" />
+</a>
+
+<!-- 02 Badge: Eletronics Cookbook --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url)">
+  <img src="electronics-cookbook.png" width="14%" alt="Eletronics Cookbook" />
+</a>
+
+<!-- 03 Badge: Machine Learning Basics --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url)">
+  <img src="machine-learning-basics.2.png" width="14%" alt="Machine Learning Basics" />
+</a>
+
+<!-- 04 Badge: Probability / Statistics - The Foundations of Machine Learning --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url)">
+  <img src="prob-stats-for-ml.1.png" width="14%" alt="Probability / Statistics - The Foundations of Machine Learning" />
+</a>
+
+<!-- 05 Badge: Deep Learning Concepts --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url)">
+  <img src="deep-learning-concepts.png" width="14%" alt="Deep Learning Concepts" />
+</a>
+
+<!-- 06 Badge: From Programmer to Software Archtecture --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url)">
+  <img src="programmer-to-soft-arch.png" width="14%" alt="From Programmer to Software Archtecture" />
+</a>
+
+<!-- 07 Badge: AI Agents: Basic to Advanced --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url)">
+  <img src="ai-agents-basics-to-advanced.png" width="14%" alt="AI Agents: Basic to Advanced" />
+</a>
+
+<!-- 08 Badge: Neural Networks --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url)">
+  <img src="neural-networks.png" width="14%" alt="Neural Networks" />
+</a>
+
+<!-- 09 Badge: Eletronics for Everyone --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url)">
+  <img src="electronics-for-everyone.png" width="14%" alt="Eletronics for Everyone " />
+</a>
+
+<!-- 10 Badge: Math Foundations for AI --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/08831ac0-e00e-42dc-bcab-6eb2a9d8aa52/public_url)">
+  <img src="math-foundation-for-ai.png" width="14%" alt="Math Foundations for AI"/>
+</a>
+
+<!-- 11 Badge: MLOps: CI/CD & Deployment --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url)">
+  <img src="mlops-ci-cd-deployment.png" width="14%" alt="MLOps: CI/CD & Deployment" />
+</a>
+
+<!-- 12 Badge: Intro to IoT Pentesting --> 
+<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url)">
+  <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting" />
+</a>
 
 </div>
 
@@ -277,15 +324,13 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 <div align="center">
 
    <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernnbr&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernnbr&theme=tokyonight&hide_border=true" width="90%" />
    <br></br>
 
 <!-- My Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=fernnbr&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- My Languages Used -->
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernnbr&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 <br></br>
