@@ -292,6 +292,8 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="neural-networks.png" width="14%" alt="Neural Networks" />
 </a>
 
+</br>
+
 <!-- 10 Badge: Math Foundations for AI --> 
 <a href="https://www.credly.com/badges/08831ac0-e00e-42dc-bcab-6eb2a9d8aa52/public_url">
   <img src="math-foundation-for-ai.png" width="14%" alt="Math Foundations for AI"/>
