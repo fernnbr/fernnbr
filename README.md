@@ -261,17 +261,17 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- 03 Badge: Machine Learning Basics --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url)">
+<a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url">
   <img src="machine-learning-basics.2.png" width="14%" alt="Machine Learning Basics" />
 </a>
 
 <!-- 04 Badge: Probability / Statistics - The Foundations of Machine Learning --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url)">
+<a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url">
   <img src="prob-stats-for-ml.1.png" width="14%" alt="Probability / Statistics - The Foundations of Machine Learning" />
 </a>
 
 <!-- 05 Badge: Deep Learning Concepts --> 
-<a href="[https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url)">
+<a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url](https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url">
   <img src="deep-learning-concepts.png" width="14%" alt="Deep Learning Concepts" />
 </a>
 
