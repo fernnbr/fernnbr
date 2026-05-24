@@ -209,13 +209,13 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 | Stanford Lemann Center Talent Network | Member|
 | Ifood AGI Club | Member |
 | Orgulho Empreendedor | Mentor |
-| AWE Brazil & Ecuador | Former Mentor | 
 | YLAI - Young Leaders of The Americas | Member|
 | Forbes BLK | Member |
 | Empretec | Alumni | 
-| G20 Brasil 2024 | IR Leader / TF Investment | 
-| G20 South Africa 2025 | Member | 
-| Harvard HBASS 2024 | Mentee |
+| AWE Brazil & Ecuador | Former Mentor | 
+| G20 Brasil 2024 | Former IR Leader / TF Investment | 
+| G20 South Africa 2025 | Former Member | 
+| Harvard HBASS 2024 | Former Mentee |
 
 </br>
 </br>
@@ -260,12 +260,12 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <!-- 17 Badge: Julia 101 --> 
 <a href="https://www.credly.com/badges/da296d46-a17f-473d-9af8-630c69ca9b8c/public_url">
-  <img src="julia-programming-101.png" width="14%" alt="Julina 101" />
+  <img src="julia-programming-101.png" width="14%" alt="Julina 101"/>
 </a>
 
 <!-- 20 Badge: C Bootcamp --> 
 <a href="https://www.credly.com/badges/ef63901c-3a41-47f6-990c-17205ec873dc/public_url">
-  <img src="c-programming-bootcamp.png" width="14%" alt="C Bootcamp" />
+  <img src="c-programming-bootcamp.png" width="14%" alt="C Bootcamp"/>
 </a>
 
 ### AI & Machine Learning
@@ -274,22 +274,22 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <!-- 03 Badge: Machine Learning Basics --> 
 <a href="https://www.credly.com/badges/e78264ca-8f72-4a1c-a881-e4c1470b3184/public_url">
-  <img src="machine-learning-basics.2.png" width="14%" alt="Machine Learning Basics" />
+  <img src="machine-learning-basics.2.png" width="14%" alt="Machine Learning Basics"/>
 </a>
 
 <!-- 04 Badge: Probability / Statistics - The Foundations of Machine Learning --> 
 <a href="https://www.credly.com/badges/e6ab8378-6f13-4b91-8f0f-557dfdc7e45e/public_url">
-  <img src="prob-stats-for-ml.1.png" width="14%" alt="Probability / Statistics - The Foundations of Machine Learning" />
+  <img src="prob-stats-for-ml.1.png" width="14%" alt="Probability / Statistics - The Foundations of Machine Learning"/>
 </a>
 
 <!-- 05 Badge: Deep Learning Concepts --> 
 <a href="https://www.credly.com/badges/942abfca-c477-48d6-8138-e667cc98b04a/public_url">
-  <img src="deep-learning-concepts.png" width="14%" alt="Deep Learning Concepts" />
+  <img src="deep-learning-concepts.png" width="14%" alt="Deep Learning Concepts"/>
 </a>
 
 <!-- 08 Badge: Neural Networks --> 
 <a href="https://www.credly.com/badges/2eccda5e-a68c-4e03-a22e-d85c674c6bbe/public_url">
-  <img src="neural-networks.png" width="14%" alt="Neural Networks" />
+  <img src="neural-networks.png" width="14%" alt="Neural Networks"/>
 </a>
 
 </br>
@@ -301,12 +301,12 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <!-- 07 Badge: AI Agents: Basic to Advanced --> 
 <a href="https://www.credly.com/badges/8b7d0eb4-c56e-41e4-bc4e-78fd0304856b/public_url">
-  <img src="ai-agents-basics-to-advanced.png" width="14%" alt="AI Agents: Basic to Advanced" />
+  <img src="ai-agents-basics-to-advanced.png" width="14%" alt="AI Agents: Basic to Advanced"/>
 </a>
 
 <!-- 19 Badge: Agentic AI in Action --> 
 <a href="https://www.credly.com/badges/42b6ee9e-2aa8-4dfd-9985-21fab413fa36/public_url">
-  <img src="agentic-ai-in-action.png" width="14%" alt="Agentic AI in Action" />
+  <img src="agentic-ai-in-action.png" width="14%" alt="Agentic AI in Action"/>
 </a>
 
 <br>
@@ -317,22 +317,22 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <!-- 01 Badge: Architectural Thinking --> 
 <a href="https://www.credly.com/badges/a2cefa0c-2a4b-4553-9041-970fb4cf9d54/public_url">
-  <img src="architectural-thinking.png" width="14%" alt="Architectural Thinking" />
+  <img src="architectural-thinking.png" width="14%" alt="Architectural Thinking"/>
 </a>
 
 <!-- 06 Badge: From Programmer to Software Archtecture --> 
 <a href="https://www.credly.com/badges/c7da8b1b-0e0f-4903-a826-88e798b4fc6c/public_url">
-  <img src="programmer-to-soft-arch.png" width="14%" alt="From Programmer to Software Archtecture" />
+  <img src="programmer-to-soft-arch.png" width="14%" alt="From Programmer to Software Archtecture"/>
 </a>
 
 <!-- 11 Badge: MLOps: CI/CD & Deployment --> 
 <a href="https://www.credly.com/badges/46b81498-fe5e-4dfc-bbb3-91d31bdfa512/public_url">
-  <img src="mlops-ci-cd-deployment.png" width="14%" alt="MLOps: CI/CD & Deployment" />
+  <img src="mlops-ci-cd-deployment.png" width="14%" alt="MLOps: CI/CD & Deployment"/>
 </a>
 
 <!-- 16 Badge: Backend Engineering --> 
 <a href="https://www.credly.com/badges/8a0de06b-ded5-4637-bc07-164595ec8b29/public_url">
-  <img src="backend-engineering (1).png" width="14%" alt="Backend Engineering" />
+  <img src="backend-engineering (1).png" width="14%" alt="Backend Engineering"/>
 </a>
 
 <br>
@@ -343,17 +343,17 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <!-- 09 Badge: Eletronics for Everyone --> 
 <a href="https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url">
-  <img src="electronics-for-everyone.png" width="14%" alt="Eletronics for Everyone " />
+  <img src="electronics-for-everyone.png" width="14%" alt="Eletronics for Everyone "/>
 </a>
 
 <!-- 12 Badge: Intro to IoT Pentesting --> 
 <a href="https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url">
-  <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting" />
+  <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting"/>
 </a>
 
 <!-- 02 Badge: Eletronics Cookbook --> 
 <a href="https://www.credly.com/badges/9b9fdff2-852e-4458-b47f-874d76686bf0/public_url">
-  <img src="electronics-cookbook.png" width="14%" alt="Eletronics Cookbook" />
+  <img src="electronics-cookbook.png" width="14%" alt="Eletronics Cookbook"/>
 </a>
 
 </br> 
@@ -364,34 +364,55 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <!-- 13 Badge: Flipper Zero Essentials --> 
 <a href="https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url">
-  <img src="flipper-zero-essentials.png" width="14%" alt="Flipper Zero Essentials" />
+  <img src="flipper-zero-essentials.png" width="14%" alt="Flipper Zero Essentials"/>
 </a>
 
 <!-- 15 Badge: Pentesting Tools Techniques --> 
 <a href="https://www.credly.com/badges/40f96f32-f472-42f4-a813-9d0062e1076e/public_url">
-  <img src="pen-testing-tools-techniques.png" width="14%" alt="Pentesting Tools Techniques" />
+  <img src="pen-testing-tools-techniques.png" width="14%" alt="Pentesting Tools Techniques"/>
 </a>
 
 <!-- 21 Badge: Cybersecurity Architecture --> 
 <a href="https://www.credly.com/badges/22036533-326b-4535-ba1c-ce33c3f9e9c9/public_url">
-  <img src="cybersecurity-architecture.1.png" width="14%" alt="Cybersecurity Architecture" />
+  <img src="cybersecurity-architecture.1.png" width="14%" alt="Cybersecurity Architecture"/>
 </a>
 
 <!-- 22 Badge: Cybersecurity for Small Business --> 
 <a href="https://www.credly.com/badges/cc0c7eff-f882-4819-ab8a-606f6c22a443/public_url">
-  <img src="cybersecurity-for-small-business.png" width="14%" alt="Cybersecurity for Small Business" />
+  <img src="cybersecurity-for-small-business.png" width="14%" alt="Cybersecurity for Small Business"/>
 </a>
 
 <!-- 23 Badge: Network Hardware Threats --> 
 <a href="https://www.credly.com/badges/523341da-0244-4dcd-a59a-c09e5c863734/public_url">
-  <img src="network-hardware-threats.png" width="14%" alt="Network Hardware Threats" />
+  <img src="network-hardware-threats.png" width="14%" alt="Network Hardware Threats"/>
 </a>
 
 <!-- 24 Badge: Cybersecurity Vulnerabilities --> 
 <a href="https://www.credly.com/badges/c9eef4d6-c4ee-4b60-b029-abbf387fafce/public_url">
-  <img src="cybersecurity-vulnerabilities.png" width="14%" alt="Cybersecurity Vulnerabilities" />
+  <img src="cybersecurity-vulnerabilities.png" width="14%" alt="Cybersecurity Vulnerabilities"/>
 </a>
 
+<!-- 25 Badge: Intro to Malwares --> 
+<a href="https://www.credly.com/badges/41f5cf2e-b6c6-42c5-9e4f-ad684fbcc3ae/public_url">
+  <img src="malware-k0480.1.png" width="14%" alt="Intro to Malwares"/>
+</a>
+
+<!-- 28 Badge: Decryption Tools and Techniques --> 
+<a href="https://www.credly.com/badges/b865ead3-5b8d-4545-90c4-1c6172c59a06/public_url">
+  <img src="decryption-tools-techniques.1.png" width="14%" alt="Decryption Tools and Techniques"/>
+</a>
+
+<!-- 30 Badge: HAC Systems & Software --> 
+<a href="https://www.credly.com/badges/997ae50e-7551-4d95-b7fc-3fbed6e41ac1/public_url">
+  <img src="hac-systems-software.png" width="14%" alt="HAC Systems and Software"/>
+</a>
+
+<!-- 31 Badge: Industry Cybersecurity --> 
+<a href="https://www.credly.com/badges/63cb1973-b26c-4318-94d0-fc46109680e3/public_url">
+  <img src="industry-cybersecurity.png" width="14%" alt="Industry Cybersecurity"/>
+</a>
+
+</br>
 
 ### Governance & Legislation 
 
@@ -399,12 +420,29 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 <!-- 14 Badge: AI Regulations Overview --> 
 <a href="https://www.credly.com/badges/b54f2ba8-2eaa-4b92-9cdb-1c4ecbd6301d/public_url">
-  <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview" />
+  <img src="ai-regulations-overview.png" width="14%" alt="AI Regulations Overview"/>
 </a>
 
 <!-- 26 Badge: Cybersecurity Laws & Regs --> 
 <a href="https://www.credly.com/badges/8393639b-3596-43c7-89c7-b0189b5862cb/public_url">
-  <img src="cybersecurity-laws-regs.png" width="14%" alt="Cybersecurity Laws & Regs" />
+  <img src="cybersecurity-laws-regs.png" width="14%" alt="Cybersecurity Laws and Regs"/>
+</a>
+
+### Quantum & Related 
+
+<!-- 29 Badge: Develop for Quantum with Q# --> 
+<a href="https://www.credly.com/badges/93fc47f9-1289-4bd5-879e-f204c589ff69/public_url">
+  <img src="develop-for-quantum-with-q.png" width="14%" alt="Develop for Quantum with Q#"/>
+</a>
+
+<!-- 29 Badge: Quantum & AI Essentials --> 
+<a href="https://www.credly.com/badges/dd7a982d-916c-457b-a0d2-7a2e12a1f8d0/public_url">
+  <img src="quantum-ai-essentials.png" width="14%" alt="Quantum & AI Essentials"/>
+</a>
+
+<!-- 29 Badge: Quantum Computing & BB84 --> 
+<a href="https://www.credly.com/badges/44fb3616-4ca1-4951-bd78-bc193c9d1078/public_url">
+  <img src="quantum-computing-bb84.png" width="14%" alt="Quantum Computing & BB84"/>
 </a>
 
 
