@@ -422,6 +422,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="vulnerability-data-sources.png" width="14%" alt="Vulnerability Data Sources"/>
 </a>
 
+<!-- 37 Badge: Cybersecurity Principles --> 
+<a href="https://www.credly.com/badges/098add60-47d9-467f-80b7-3109a1e87ba5/public_url">
+  <img src="cybersecurity-principles.1.png" width="14%" alt="Cybersecurity Principles"/>
+</a>
+
 
 </br>
 
