@@ -340,6 +340,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="poka-yoke-specialist.png" width="14%" alt="Poka-Yoke Specialist"/>
 </a>
 
+<!-- 42 Badge: Refactoring Legacy Code --> 
+<a href="https://www.credly.com/badges/8ff070e5-a553-4784-a660-c658fd16b403/public_url">
+  <img src="refactoring-legacy-code.png" width="14%" alt="Refactoring Legacy Code"/>
+</a>
+
 <br>
 
 ### Electronics & IoT
