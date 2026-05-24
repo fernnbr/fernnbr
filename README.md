@@ -412,6 +412,17 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="industry-cybersecurity.png" width="14%" alt="Industry Cybersecurity"/>
 </a>
 
+<!-- 35 Badge: Cybersecurity Threats --> 
+<a href="https://www.credly.com/badges/4952a119-0312-4c52-b795-419b8c40affc/public_url">
+  <img src="cybersecurity-threats.png" width="14%" alt="Cybersecurity Threats"/>
+</a>
+
+<!-- 36 Badge: Vulnerability Data Sources --> 
+<a href="https://www.credly.com/badges/c5f3d64e-2d22-48f3-bd86-bb071fda108c/public_url">
+  <img src="vulnerability-data-sources.png" width="14%" alt="Vulnerability Data Sources"/>
+</a>
+
+
 </br>
 
 ### Governance & Legislation 
