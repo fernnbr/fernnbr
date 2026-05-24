@@ -454,6 +454,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="cybersecurity-laws-regs.png" width="14%" alt="Cybersecurity Laws and Regs"/>
 </a>
 
+<!-- 26 Badge: Privacy Laws & Regulations --> 
+<a href="l">
+  <img src="privacy-laws-regulations.png" width="14%" alt="Privacy Laws & Regulations"/>
+</a>
+
 ### Quantum & Related 
 
 </br>
