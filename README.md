@@ -430,6 +430,8 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 ### Quantum & Related 
 
+</br>
+
 <!-- 29 Badge: Develop for Quantum with Q# --> 
 <a href="https://www.credly.com/badges/93fc47f9-1289-4bd5-879e-f204c589ff69/public_url">
   <img src="develop-for-quantum-with-q.png" width="14%" alt="Develop for Quantum with Q#"/>
