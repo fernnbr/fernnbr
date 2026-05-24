@@ -335,6 +335,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
   <img src="backend-engineering (1).png" width="14%" alt="Backend Engineering"/>
 </a>
 
+<!-- 36 Badge: Poka-Yoke Specialist --> 
+<a href="https://www.credly.com/badges/56f2669d-a377-405d-b586-8139061b2a08/public_url">
+  <img src="poka-yoke-specialist.png" width="14%" alt="Poka-Yoke Specialist"/>
+</a>
+
 <br>
 
 ### Electronics & IoT
