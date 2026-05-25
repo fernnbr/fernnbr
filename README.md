@@ -153,7 +153,7 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Include Notebook LM --> 
 
 </br>
-</br>
+</br> 
 
 <!-- Descriptive Section --> 
 # ✦ About Me
