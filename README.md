@@ -372,6 +372,11 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 </br>
 
+<!-- 55 Badge: Working with SSH--> 
+<a href="https://www.credly.com/badges/bf4f146a-a3ef-4aff-a167-7209e4c4eeee/public_url">
+  <img src="working-with-ssh.png" width="14%" alt="Working with SSH"/>
+</a>
+
 <!-- 13 Badge: Flipper Zero Essentials --> 
 <a href="https://www.credly.com/badges/03102384-1d17-4fb4-922c-53242822414f/public_url">
   <img src="flipper-zero-essentials.png" width="14%" alt="Flipper Zero Essentials"/>
