@@ -350,15 +350,19 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 ### Electronics & IoT
 
 </br>
+<!-- 12 Badge: Intro to IoT Pentesting --> 
+<a href="https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url">
+  <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting"/>
+</a>
+
+<!-- 56 Badge: PCB Design for Beginners --> 
+<a href="https://www.credly.com/badges/a0d4aa19-b6b8-4904-9c6e-eb0ff3b59608/public_url">
+  <img src="pcb-design-for-beginners.png" width="14%" alt="PCB Design for Beginners"/>
+</a>
 
 <!-- 09 Badge: Eletronics for Everyone --> 
 <a href="https://www.credly.com/badges/42d8e79c-167c-4552-814c-725bc97e9b2e/public_url">
   <img src="electronics-for-everyone.png" width="14%" alt="Eletronics for Everyone "/>
-</a>
-
-<!-- 12 Badge: Intro to IoT Pentesting --> 
-<a href="https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url">
-  <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting"/>
 </a>
 
 <!-- 02 Badge: Eletronics Cookbook --> 
