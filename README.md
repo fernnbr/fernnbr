@@ -455,8 +455,13 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </a>
 
 <!-- 26 Badge: Privacy Laws & Regulations --> 
-<a href="l">
-  <img src="privacy-laws-regulations.png" width="14%" alt="Privacy Laws & Regulations"/>
+<a href="https://www.credly.com/badges/9dc688dc-aa87-428e-866a-f88f206015f4/public_url">
+  <img src="privacy-laws-regulations.png" width="14%" alt="Privacy Laws and Regulations"/>
+</a>
+
+<!-- 26 Badge: Blockchain and Regulation --> 
+<a href="https://www.credly.com/badges/5e36c1dc-a891-4f51-b193-6768986d4f6f/public_url">
+  <img src="blockchain-and-regulation.png" width="14%" alt="Blockchain and Regulation"/>
 </a>
 
 ### Quantum & Related 
