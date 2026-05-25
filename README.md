@@ -350,6 +350,12 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 ### Electronics & IoT
 
 </br>
+
+<!-- 57 Badge: Software, Engineering, and Robots --> 
+<a href="https://www.credly.com/badges/25a88792-e21d-4242-9507-43fea8626a2f/public_url">
+  <img src="software-engineering-and-robots.png" width="14%" alt="Software, Engineering, and Robots"/>
+</a>
+
 <!-- 12 Badge: Intro to IoT Pentesting --> 
 <a href="https://www.credly.com/badges/539717c8-50ee-40cb-bd66-1533ec2943ea/public_url">
   <img src="intro-to-iot-pentesting.png" width="14%" alt="Intro to IoT Pentesting"/>
