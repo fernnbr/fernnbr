@@ -232,19 +232,18 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 | Role | Recognition | Year | 
 | ----- | ---- | ----- | 
-| Leader of Selected Startup (Stardust Zone) | CMEC/ACSP/Pateo76 UpStars | 
-| Leader of Selected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
-| Leader of Finalist Startup (Stardust Zone) | UpStars (CMEC/ACSP) | 2026 | 
+| Leader of theSelected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
+| Leader of the 4th Place Startup (Stardust Zone) | UpStars (CMEC/ACSP) | 2026 | 
 | Leader of Finalist Startup (Stardust Zone) | BRDE Labs SC | 2025 | 
 | Winner Entrepreneur | Startup Weekend Socioambiental @ 42 São Paulo | 2025 | 
-| Leader of Winner Startup (Stardust Zone) | Empreendedoras Tech (MDIC / SEBRAE / ENAP / Impact Hub) | 2024 | 
-| Leader of Winner Startup (Stardust Zone) | Japan J-Wings -  (JICA + BVC) | 2024 | 
-| Leader of Finalist Startup (Stardust Zone) | 1st Public AI Competition (MDIC + Intel) | 2024 |  
-| Leader of Sealed Startup (Stardust Zone) | Jornada Startups | 2024 | 
-| Leader of Sealed Startup (Stardust Zone) | BNDES Garagem | 2023 | 
-| Leader of Sealed Startup (Stardust Zone) | Nossa Parte Pela Educação (IBRF + Quintessa)| 2023 | 
-| Leader of Sealed Startup (Universidados) | StartupRIO (Faperj) | 2017 | 
-| Leader of Sealed Startup (Meu Campus) | StartupRIO (Faperj) | 2016 | 
+| Leader of the Winner Startup (Stardust Zone) | Empreendedoras Tech (MDIC / SEBRAE / ENAP / Impact Hub) | 2024 | 
+| Leader of the Winner Startup (Stardust Zone) | Japan J-Wings -  (JICA + BVC) | 2024 | 
+| Leader of a Finalist Startup (Stardust Zone) | 1st Public AI Competition (MDIC + Intel) | 2024 |  
+| Leader of a Sealed Startup (Stardust Zone) | Jornada Startups | 2024 | 
+| Leader of a Sealed Startup (Stardust Zone) | BNDES Garagem | 2023 | 
+| Leader of a Sealed Startup (Stardust Zone) | Nossa Parte Pela Educação (IBRF + Quintessa)| 2023 | 
+| Leader of a Sealed Startup (Universidados) | StartupRIO (Faperj) | 2017 | 
+| Leader of a Sealed Startup (Meu Campus) | StartupRIO (Faperj) | 2016 | 
 
 </br>
 </br>
