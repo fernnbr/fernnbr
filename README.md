@@ -232,6 +232,7 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 | Role | Recognition | Year | 
 | ----- | ---- | ----- | 
+| Leader of Selected Startup (Stardust Zone) | CMEC/ACSP/Pateo76 UpStars | 
 | Leader of Selected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
 | Leader of Finalist Startup (Stardust Zone) | UpStars (CMEC/ACSP) | 2026 | 
 | Leader of Finalist Startup (Stardust Zone) | BRDE Labs SC | 2025 | 
