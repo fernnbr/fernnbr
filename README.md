@@ -232,7 +232,7 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 | Role | Recognition | Year | 
 | ----- | ---- | ----- | 
-| Leader of theSelected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
+| Leader of the Selected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
 | Leader of the 4th Place Startup (Stardust Zone) | UpStars (CMEC/ACSP) | 2026 | 
 | Leader of Finalist Startup (Stardust Zone) | BRDE Labs SC | 2025 | 
 | Winner Entrepreneur | Startup Weekend Socioambiental @ 42 São Paulo | 2025 | 
