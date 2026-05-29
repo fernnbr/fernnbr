@@ -53,7 +53,7 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Tech Stack Section --> 
 # ✦ My Tech Stack
 
-#### Languages, Markup Tools && Related
+#### Languages, Markup Languages && Related
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
