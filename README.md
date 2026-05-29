@@ -53,7 +53,7 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Tech Stack Section --> 
 # ✦ My Tech Stack
 
-#### Languages && Related
+#### Languages, Markup Tools && Related
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -65,7 +65,6 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-<!-- Include Shell --> 
 <!-- Include LexML --> 
 
 #### AI, LLMs/SLMs, ML, Data Science && DataViz
