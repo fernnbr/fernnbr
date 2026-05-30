@@ -53,7 +53,7 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Tech Stack Section --> 
 # ✦ My Tech Stack
 
-#### Programming Languages, Markup Languages && Related
+### Programming Languages, Markup Languages && Related
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -65,9 +65,13 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-<!-- Include LexML --> 
+<img src="https://raw.githubusercontent.com/fernnbr/fernnbr/main/lexML.png" alt="LexML" width="10%"/>
 
-#### AI, LLMs/SLMs, ML, Data Science && DataViz
+</br>
+ ✦
+</br>
+
+### AI, LLMs/SLMs, ML, Data Science && DataViz
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -90,8 +94,11 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Include Google Antigravity --> 
 <!-- Include Google Gemini --> 
 
+</br>
+ ✦
+</br>
 
-#### Development && Frameworks
+### Development && Frameworks
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -104,7 +111,11 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Include Akoma Ntoso --> 
 <!-- Include LEOS --> 
 
-#### Design, Creativity && Product Development 
+</br>
+ ✦
+</br>
+
+### Design, Creativity && Product Development 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
@@ -128,7 +139,11 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Include Google Pomeli --> 
 <!-- Include Google Stitch --> 
 
-#### DevOps & Infrastructure 
+</br>
+ ✦
+</br>
+
+### DevOps & Infrastructure 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
@@ -136,13 +151,21 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 <!-- Include VIM --> 
 <!-- Include VS Code --> 
 
-#### Hardware && Eletronics 
+</br>
+ ✦
+</br>
+
+### Hardware && Eletronics 
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 <!-- Include Serious Lego --> 
 
-#### Documentation && Project Management
+</br>
+ ✦
+</br>
+
+### Documentation && Project Management
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
