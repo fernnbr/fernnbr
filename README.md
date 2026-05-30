@@ -83,8 +83,8 @@ of global affairs and areas contemplated by antecipatory science, as astropoliti
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-<img src="https://raw.githubusercontent.com/fernnbr/fernnbr/main/jupyter-notebook.png" alt="Jupyter Notebook" width="10%"/>
-<img src="https://raw.githubusercontent.com/fernnbr/fernnbr/main/google-colab.png" alt="Google Colab" width="10%"/>
+<img src="https://raw.githubusercontent.com/fernnbr/fernnbr/main/jupyter-notebook.png" alt="Jupyter Notebook" width="15%"/>
+<img src="https://raw.githubusercontent.com/fernnbr/fernnbr/main/google-colab.png" alt="Google Colab" width="15%"/>
 <!-- Include Tableau --> 
 <!-- Include Google DataViz Studio --> 
 <!-- Include Claude Code --> 
