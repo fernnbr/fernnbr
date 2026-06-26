@@ -2,7 +2,7 @@
 
 
 # Sarah F. Fernn · `Shuri` · she/her
-### *`Mechatronic Engineering`, `International Relations` && `Public Management`* </br>
+### *`Electrical & Computer Engineering`, `International Relations` && `Public Management`* </br>
 _Founder; Curious; Navigator of minds & systems_
 </br>
 
@@ -35,7 +35,7 @@ but also amplifies their voices, talents and impact.
 
  ```
 Besides being a social entrepreneur on inclusion, accessibily and education in cognitive diversity applied
-to STEAM field, I study and work to bridge the gap between mechatronics engineering and international relations,
+to STEAM field, I study and work to bridge the gap between electrical engineering, computer science and international relations,
 designing integrated systems that account for complex global political and economic landscapes.
 
 My approach combines technical expertise in robotics and sensor technology with
@@ -43,7 +43,7 @@ a strategic understanding of geopolitical trends and diplomatic negotiation on s
 with a special focus on techno-geopolitics and innovation diplomacy. 
 
 I am driven to analyze and navigate the interplay between emerging technologies and the multifaceted systems
-of global affairs and areas contemplated by antecipatory science, as astropolitics and neurotechnology. 
+of global affairs and areas contemplated by antecipatory science, as astropolitics, neurotechnology and computational neuroscience. 
 ```
 </br> 
 
