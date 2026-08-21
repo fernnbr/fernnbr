@@ -222,22 +222,30 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 </br>
 
 <!-- Network Section --> 
-# ✦ My Networks & Recognitions
+# ✦ My Networks, Initiatives & Recognitions
 
 </br> 
 
 | Network | Role |
 | ------ | -----| 
+| Google Student Ambassador Brazil | Member |
 | Stanford Lemann Center Talent Network | Member|
 | Ifood AGI Club | Member |
-| Orgulho Empreendedor | Mentor |
 | YLAI - Young Leaders of The Americas | Member|
 | Forbes BLK | Member |
-| Empretec | Alumni | 
-| AWE Brazil & Ecuador | Former Mentor | 
-| G20 Brasil 2024 | Former IR Leader / TF Investment | 
 | G20 South Africa 2025 | Former Member | 
-| Harvard HBASS 2024 | Former Mentee |
+| G20 Brasil 2024 | Former IR Leader / TF Investment | 
+| UN/SEBRAE Empretec | Alumni | 
+
+
+| Program | Role | Year |
+|-------- | ------| ------ |
+| Move +Mulheres | Mentor | 2026 | 
+| Orgulho Empreendedor | Mentor | 2026 |
+| HaCARthon Dataprev/Enap | Mentor | 2026 |
+| AWE Brazil | Former Mentor | 2025 | 
+| Harvard HBASS 2024 | Former Mentee | 2024 |
+| AWE Brazil | Former Mentor | 2024 | 
 
 </br>
 </br>
