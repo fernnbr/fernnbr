@@ -254,6 +254,8 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 | Role | Recognition | Year | 
 | ----- | ---- | ----- | 
+| Leader of the Selected Startup (Stardust Zone) | Bradesco InovaBra PRIA - AI Residence | 2026 | 
+| Leader of the Selected Startup (Stardust Zone) | SEBRAE Top 1000 Startups | 2026 | 
 | Leader of the Selected Startup (Stardust Zone) | Google Cloud for Startups | 2026 | 
 | Leader of the 4th Place Startup (Stardust Zone) | UpStars (CMEC/ACSP) | 2026 | 
 | Leader of Finalist Startup (Stardust Zone) | BRDE Labs SC | 2025 | 
