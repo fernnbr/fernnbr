@@ -231,7 +231,7 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 | Google Student Ambassador Brazil | Member |
 | Stanford Lemann Center Talent Network | Member|
 | Ifood AGI Club | Member |
-| YLAI - Young Leaders of The Americas | Member|
+| YLAI - Young Leaders of The Americas (U.S. Dept. State) | Member|
 | Forbes BLK | Member |
 | G20 South Africa 2025 | Former Member | 
 | G20 Brasil 2024 | Former IR Leader / TF Investment | 
@@ -240,12 +240,12 @@ USA · Germany · Bulgaria · Russia · Japan · South Africa
 
 | Program | Role | Year |
 |-------- | ------| ------ |
-| Move +Mulheres | Mentor | 2026 | 
+| Move +Mulheres (+Unidos/Alcoa) | Mentor | 2026 | 
 | Orgulho Empreendedor | Mentor | 2026 |
-| HaCARthon Dataprev/Enap | Mentor | 2026 |
-| AWE Brazil | Former Mentor | 2025 | 
+| HaCARthon (Dataprev/Enap) | Mentor | 2026 |
+| AWE Brazil (+Unidos/U.S. Embassy and Consulates in Brazil) | Former Mentor | 2025 | 
 | Harvard HBASS 2024 | Former Mentee | 2024 |
-| AWE Brazil | Former Mentor | 2024 | 
+| AWE Ecuador (Quito Chamber of Commerce/U.S. Department of State) | Former Mentor | 2024 | 
 
 </br>
 </br>
