@@ -106,6 +106,8 @@ I am driven to analyze and navigate the interplay between emerging technologies 
 
 | Year | Recognition | Role |
 |---|---|---|
+| 2026 | Future Tech Leaders - AEB + UNDP | Selected Entrepreneur |
+| 2026 | Accelerator Program for PwD Community and Solutions - 2Gether Int + IDB Lab + Darwin Startups | Leader of the Selected Startup (Stardust Zone)|
 | 2026 | Bradesco InovaBra PRIA – AI Residence | Leader of the Selected Startup (Stardust Zone) |
 | 2026 | SEBRAE Top 1000 Startups | Leader of the Selected Startup (Stardust Zone) |
 | 2026 | Google Cloud for Startups | Leader of the Selected Startup (Stardust Zone) |
